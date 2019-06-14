@@ -1,0 +1,768 @@
+2019-05-16 09:33:27,783 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:33:27:453https://my.cbg.163.com/cgi/api/query
+2019-05-16 09:33:54,335 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:33:54:335https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:34:00,518 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:34:00:518https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:34:06,134 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:34:06:134https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:34:11,667 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:34:11:667https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:34:18,030 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:34:18:030https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:34:27,536 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:34:27:536https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:34:33,166 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:34:33:166https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:34:38,633 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:34:38:633https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:34:44,365 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:34:44:365https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:34:49,959 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:34:49:959https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:34:55,638 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:34:55:638https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:35:01,328 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:35:01:328https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:35:07,127 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:35:07:127https://my.cbg.163.com/cgi/api/add_collect
+2019-05-16 09:35:12,171 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:35:12:171https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:35:18,061 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:35:18:061https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:35:23,565 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:35:23:565https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:35:29,375 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:35:29:375https://my.cbg.163.com/cgi/api/query
+2019-05-16 09:35:34,506 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:35:34:506https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:35:40,519 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:35:40:519https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:35:45,934 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:35:45:934https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:35:52,613 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:35:52:613https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:35:59,190 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:35:59:190https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:36:05,672 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:36:05:672https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:36:12,092 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:36:12:092https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:36:17,926 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:36:17:926https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:36:23,611 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:36:23:611https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:36:29,385 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:36:29:384https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:36:34,796 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:36:34:796https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:36:39,968 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:36:39:968https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:36:45,274 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:36:45:274https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:36:50,449 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:36:50:449https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:36:55,746 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:36:55:746https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:37:00,871 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:37:00:871https://my.cbg.163.com/cgi/api/add_collect
+2019-05-16 09:37:05,916 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:37:05:916https://my.cbg.163.com/cgi/api/query
+2019-05-16 09:37:11,040 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:37:11:040https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:37:16,202 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:37:16:202https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:37:21,465 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:37:21:465https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:37:26,545 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:37:26:545https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:37:31,656 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:37:31:656https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:37:36,749 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:37:36:749https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:37:41,847 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:37:41:847https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:37:46,952 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:37:46:952https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:37:52,063 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:37:52:063https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:37:57,173 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:37:57:173https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:38:02,273 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:38:02:273https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:38:07,379 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:38:07:379https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:38:12,509 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:38:12:509https://my.cbg.163.com/cgi/api/add_collect
+2019-05-16 09:38:17,583 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:38:17:583https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:38:22,691 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:38:22:691https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:38:27,833 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:38:27:832https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:38:32,937 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:38:32:937https://my.cbg.163.com/cgi/api/query
+2019-05-16 09:38:38,001 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:38:38:001https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:38:43,079 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:38:43:079https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:38:48,196 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:38:48:196https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:38:55,754 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:38:55:754https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:39:00,846 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:39:00:846https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:39:05,905 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:39:05:905https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:39:11,052 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:39:11:052https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:39:16,279 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:39:16:279https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:39:21,461 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:39:21:461https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:39:26,724 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:39:26:724https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:39:31,814 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:39:31:814https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:39:36,912 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:39:36:912https://my.cbg.163.com/cgi/api/add_collect
+2019-05-16 09:39:41,942 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:39:41:942https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:39:47,262 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:39:47:262https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:39:52,350 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:39:52:350https://my.cbg.163.com/cgi/api/add_collect
+2019-05-16 09:39:57,396 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:39:57:396https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:40:02,486 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:40:02:486https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:40:07,596 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:40:07:596https://my.cbg.163.com/cgi/api/add_collect
+2019-05-16 09:40:12,657 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:40:12:657https://my.cbg.163.com/cgi/api/query
+2019-05-16 09:40:17,720 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:40:17:720https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:40:22,866 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:40:22:866https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:40:27,955 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:40:27:955https://my.cbg.163.com/cgi/api/add_collect
+2019-05-16 09:40:33,005 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:40:33:005https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:40:38,137 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:40:38:137https://my.cbg.163.com/cgi/api/add_collect
+2019-05-16 09:40:43,165 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:40:43:165https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:40:48,299 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:40:48:299https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:40:53,406 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:40:53:406https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:40:58,472 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:40:58:472https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:41:03,616 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:41:03:616https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:41:08,688 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:41:08:688https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:41:13,775 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:41:13:775https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:41:18,908 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:41:18:908https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:41:24,027 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:41:24:027https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:41:29,174 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:41:29:174https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:41:34,318 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:41:34:318https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:41:39,438 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:41:39:438https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:41:44,589 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:41:44:589https://my.cbg.163.com/cgi/api/query
+2019-05-16 09:41:49,662 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:41:49:662https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:41:54,780 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:41:54:780https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:41:59,895 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:41:59:895https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:42:04,955 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:42:04:955https://my.cbg.163.com/cgi/api/add_collect
+2019-05-16 09:42:09,999 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:42:09:999https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:42:15,213 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:42:15:213https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:42:20,360 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:42:20:360https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:42:25,486 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:42:25:486https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:42:30,555 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:42:30:555https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:42:35,657 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:42:35:657https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:42:40,764 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:42:40:764https://my.cbg.163.com/cgi/api/add_collect
+2019-05-16 09:42:45,817 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:42:45:817https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:42:51,056 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:42:51:056https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:42:56,208 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:42:56:208https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:43:01,445 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:43:01:445https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:43:06,594 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:43:06:594https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:43:11,738 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:43:11:738https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:43:16,858 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:43:16:858https://my.cbg.163.com/cgi/api/add_collect
+2019-05-16 09:43:21,898 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:43:21:898https://my.cbg.163.com/cgi/api/query
+2019-05-16 09:43:26,972 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:43:26:972https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:43:32,137 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:43:32:137https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:43:37,288 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:43:37:288https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:43:42,400 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:43:42:399https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:43:47,644 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:43:47:644https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:43:52,849 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:43:52:849https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:43:57,929 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:43:57:929https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:44:03,015 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:44:03:015https://my.cbg.163.com/cgi/api/add_collect
+2019-05-16 09:44:08,065 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:44:08:065https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:44:13,142 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:44:13:142https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:44:18,226 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:44:18:226https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:44:23,356 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:44:23:356https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:44:28,437 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:44:28:437https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:44:33,615 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:44:33:615https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:44:38,685 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:44:38:685https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:44:43,797 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:44:43:797https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:44:48,876 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:44:48:876https://my.cbg.163.com/cgi/api/query
+2019-05-16 09:44:53,959 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:44:53:959https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:44:59,358 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:44:59:358https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:45:04,612 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:45:04:612https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:45:09,784 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:45:09:784https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:45:14,946 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:45:14:946https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:45:20,029 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:45:20:029https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:45:25,108 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:45:25:108https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:45:30,195 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:45:30:195https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 09:45:35,298 INFO (HttpsClientUtil.java:74)- 2019/05/16-09:45:35:298https://my.cbg.163.com/cgi/api/add_collect
+2019-05-16 10:10:30,157 INFO (MainThreadIp2.java:54)- 2019/05/16-10:10:30:157------线程初始化之前
+2019-05-16 10:10:30,250 INFO (MainThreadIp2.java:72)- 挂机初始化时间
+2019-05-16 10:10:30,469 INFO (HttpsClientUtil.java:74)- 2019/05/16-10:10:30:386https://my.cbg.163.com/cgi/api/add_order
+2019-05-16 10:10:30,776 INFO (PayService.java:267)- 2019/05/16-10:10:30:776  {"msg": "\u60a8\u6709\u4e00\u4e2a\u89d2\u8272\u5546\u54c1\u5c1a\u672a\u4ed8\u6b3e\uff0c\u4e0d\u80fd\u518d\u8d2d\u4e70\u4e86", "status": 0}
+2019-05-16 10:10:30,777 INFO (PayService.java:293)- 下单失败，失败原因：您有一个角色商品尚未付款，不能再购买了
+2019-05-16 10:10:30,777 INFO (PayService.java:373)- queryOrder2019/05/16-10:10:30:777
+2019-05-16 10:10:30,792 INFO (HttpsClientUtil.java:74)- 2019/05/16-10:10:30:792https://my.cbg.163.com/cgi/api/my_orders?page=1&status=1
+2019-05-16 10:10:31,170 INFO (PayService.java:377)- 所有解析之前 2019/05/16-10:10:31:169{"status": 1, "paging": {"is_last_page": true}, "unpaid_order_num": 1, "result": [{"buyer_name": "q735165876@163.com", "subtitle": "\u68a6\u5e7b\u897f\u6e38\u624b\u6e38-\u7fa4\u661f\u7480\u74a8", "is_user_cancel": false, "buy_poundages": [], "expire_remain_seconds": 1741, "expire_time": "2019-05-16 10:39:32", "create_time": "2019-05-16 10:09:32", "equipid": 4833, "buyer_fee_list": [], "pay_time": null, "equip": {"appointed_data": null, "create_time_desc": "2019-05-05 16:35:07", "storage_type": 4, "create_time": "2019-05-05 16:35:07", "equipid": 4833, "allow_multi_order": true, "collect_num": 2, "pass_fair_show": 1, "appointed_roleid": null, "fair_show_end_time": "2019-05-06 16:35:07", "platform_type": 1, "level_desc": "113\u7ea7", "highlights": ["\u53cc\u84dd\u88c5\u5907x1", "\u6ee111\u6bb5", "\u529b\u5288\u5ba0\u7269"], "min_buy_level": null, "kindid": 1, "equip_level": 113, "icon": "/game_res/res/photo/0001.png", "area_name": "\u4e00\u533a", "desc_sumup_short": "\u603b\u8bc4\u5206:44107   \u4eba\u7269\u8bc4\u5206:25878", "status": 3, "cross_buy_serverid_list": [], "equip_type": "1", "price": 14888800, "other_info": {"school": 8, "format_equip_name": "\u5316\u751f\u5bfa", "level_desc": "113\u7ea7", "highlights": ["\u53cc\u84dd\u88c5\u5907x1", "\u6ee111\u6bb5", "\u529b\u5288\u5ba0\u7269"], "desc_sumup": "\u603b\u8bc4\u5206:44107   \u4eba\u7269\u8bc4\u5206:25878", "desc_sumup_short": "\u603b\u8bc4\u5206:44107   \u4eba\u7269\u8bc4\u5206:25878", "basic_attrs": ["\u603b\u8bc4\u5206:44107", "\u4eba\u7269\u8bc4\u5206:25878"], "icon": "/game_res/res/photo/0001.png"}, "status_desc": "\u88ab\u4e0b\u5355", "expire_remain_seconds": 368676, "expire_time": "2019-05-20 16:35:07", "serverid": 35, "first_onsale_price": 14888800, "server_name": "\u7fa4\u661f\u7480\u74a8", "allow_cross_buy": false, "game_ordersn": "201904281601716-35-FWASMJAGA88E8", "web_last_price": 14888800, "equip_count": 1, "equip_name": "\u666e\u6e21\u6148\u822a", "eid": "201905051601713-35-4HA2LIN3EJCTP", "format_equip_name": "\u5316\u751f\u5bfa", "selling_time": "2019-05-05 16:35:07", "game_channel": "netease"}, "orderid_to_epay": "35_10125", "orderid": 10125, "remain_seconds": 1741, "buyer_role": null, "status": 1, "return_money_time": null, "invalid_time": null, "price": 14888800, "status_desc": "\u5f85\u4ed8\u6b3e", "wallet_pay_type": 0, "price_desc": "\uffe5148888.00", "total_poundage": 0, "serverid": 35, "total_poundage_desc": "0.00", "price_total": 14888800, "buyer_urs": "q735165876@163.com", "orderid_from_epay": "2019051610JY21194738"}]}
+2019-05-16 10:10:31,194 INFO (PayService.java:379)- 解析数组之后 2019/05/16-10:10:31:194 
+2019-05-16 10:10:31,194 INFO (PayService.java:383)- result之后 2019/05/16-10:10:31:194 
+2019-05-16 10:10:31,194 INFO (PayService.java:854)- 解析status之前 2019/05/16-10:10:31:194
+2019-05-16 10:10:31,194 INFO (PayService.java:856)- 解析status_desc之前 2019/05/16-10:10:31:194
+2019-05-16 10:10:31,194 INFO (PayService.java:858)- 订单状态：1
+2019-05-16 10:10:31,194 INFO (PayService.java:859)- 待付款
+2019-05-16 10:10:31,194 INFO (HttpsClientUtil.java:74)- 2019/05/16-10:10:31:194https://my.cbg.163.com/cgi/api/get_order_pay_info
+2019-05-16 10:10:31,337 INFO (PayService.java:504)- 35_10125 getorderinfo 返回值 {"status": 1, "pay_info": {"epay_pay_url": "https://api.epay.163.com/mwallet/order/pay.htm?msg=eyJvcmRlcklkIjogIjIwMTkwNTE2MTBKWTIxMTk0NzM4IiwgImNhbGxlclBsYXRmb3JtSWQiOiAiMjAxNzExMjAxNlBUNTM4NzU3NDYiLCAicGxhdGZvcm1JZCI6ICIyMDE4MDQyNTEzUFQ1NTA1MDc2NiIsICJ2ZXJzaW9uIjogIjEuMC4wIiwgInBheVN0cmF0ZWd5IjogIntcIndhbGxldFR5cGVcIjogXCJDQkdfV0FMTEVUXCIsIFwiZXBheUFtb3VudFwiOiAxNDg4ODguMCwgXCJtZXJjaGFudFdhbGxldEFtb3VudFwiOiAwLjAsIFwidXNlSW5zcGVjdEJhbGFuY2VcIjogZmFsc2UsIFwib3V0ZXJDaGFyZ2VGZWVOb3RlXCI6IHtcImFwRmVlXCI6IDAuMCwgXCJ3eEZlZVwiOiAwLjB9LCBcIm91dGVyQ2hhcmdlRmVlU3RyYXRlZ3lcIjoge1wiYXBGZWVcIjogMTYzNy43NywgXCJ3eEZlZVwiOiAxMDQyLjIyfX0iLCAiYWNjb3VudElkIjogInE3MzUxNjU4NzZAMTYzLmNvbSJ9&msgType=JSON&sign=BPvolD0RxarSJBKjhwQA2yWYqCnDYMCi3bOFxu7hC0AuUYOvojB5N49n%2BDRYdk60TYw4s6MI4kXW1QFybqiF7ppaNMSPFzePHJ%2BliqlTLD1NRCVo6hovG0B8fQv6PhMwdXyKaRTMi%2Bp2uJhYc%2FqKI5yNUmLWojL8yLhy6pMZbkYJP80XG14Pr%2FE19%2F0DAkcxPPYFjox7M8n%2Fkhyk%2FPhNM2LkwSTqvCtDj%2FkmAdTjdOnynvl0t7S%2Fvny81C%2B1kYYr21M8iaUdZpKzfFAREd1HTBrFo133qhRvDIv%2Beh0kWCPih4pAQdvjZW77w9uaU4fJ3Sst8w8d6%2FF6PF2%2BNz5PXA%3D%3D", "mobile_info": null, "full_pay_by_wallet": false}}
+2019-05-16 10:10:31,343 INFO (PayService.java:512)- 35_10125---------jieximsg之后 null
+2019-05-16 10:10:31,343 INFO (PayService.java:515)- 35_10125---------解析epay_pay_url之前
+2019-05-16 10:10:31,343 INFO (PayService.java:864)- 增加订单里的===============获取支付地址完成 2019/05/16-10:10:31:343 https://api.epay.163.com/mwallet/order/pay.htm?msg=eyJvcmRlcklkIjogIjIwMTkwNTE2MTBKWTIxMTk0NzM4IiwgImNhbGxlclBsYXRmb3JtSWQiOiAiMjAxNzExMjAxNlBUNTM4NzU3NDYiLCAicGxhdGZvcm1JZCI6ICIyMDE4MDQyNTEzUFQ1NTA1MDc2NiIsICJ2ZXJzaW9uIjogIjEuMC4wIiwgInBheVN0cmF0ZWd5IjogIntcIndhbGxldFR5cGVcIjogXCJDQkdfV0FMTEVUXCIsIFwiZXBheUFtb3VudFwiOiAxNDg4ODguMCwgXCJtZXJjaGFudFdhbGxldEFtb3VudFwiOiAwLjAsIFwidXNlSW5zcGVjdEJhbGFuY2VcIjogZmFsc2UsIFwib3V0ZXJDaGFyZ2VGZWVOb3RlXCI6IHtcImFwRmVlXCI6IDAuMCwgXCJ3eEZlZVwiOiAwLjB9LCBcIm91dGVyQ2hhcmdlRmVlU3RyYXRlZ3lcIjoge1wiYXBGZWVcIjogMTYzNy43NywgXCJ3eEZlZVwiOiAxMDQyLjIyfX0iLCAiYWNjb3VudElkIjogInE3MzUxNjU4NzZAMTYzLmNvbSJ9&msgType=JSON&sign=BPvolD0RxarSJBKjhwQA2yWYqCnDYMCi3bOFxu7hC0AuUYOvojB5N49n%2BDRYdk60TYw4s6MI4kXW1QFybqiF7ppaNMSPFzePHJ%2BliqlTLD1NRCVo6hovG0B8fQv6PhMwdXyKaRTMi%2Bp2uJhYc%2FqKI5yNUmLWojL8yLhy6pMZbkYJP80XG14Pr%2FE19%2F0DAkcxPPYFjox7M8n%2Fkhyk%2FPhNM2LkwSTqvCtDj%2FkmAdTjdOnynvl0t7S%2Fvny81C%2B1kYYr21M8iaUdZpKzfFAREd1HTBrFo133qhRvDIv%2Beh0kWCPih4pAQdvjZW77w9uaU4fJ3Sst8w8d6%2FF6PF2%2BNz5PXA%3D%3D
+2019-05-16 10:10:31,343 INFO (DateUtil.java:698)- 2019/05/16-10:10:31:343
+2019-05-16 10:10:31,548 INFO (PayService.java:631)- 2019/05/16-10:10:31:548---------返回getPayNo方法
+2019-05-16 10:10:31,549 INFO (PayService.java:638)- 2019/05/16-10:10:31:549 真实支付地址为：https://epay.163.com/cashier/standardCashier?orderId=2019051610JY21194804
+2019-05-16 10:10:31,549 INFO (PayService.java:649)- 2019/05/16-10:10:31:549---------getPayNo方法return之前
+2019-05-16 10:10:31,549 INFO (PayService.java:867)- 增加订单里的===============访问支付地址完成 2019051610JY21194804 2019/05/16-10:10:31:549
+2019-05-16 10:10:31,586 INFO (HttpsClientUtil.java:332)- {"coupon":null,"balance":{"payAmount":"148888.00"},"orderId":"2019051610JY21194804"}
+2019-05-16 10:10:31,586 INFO (HttpsClientUtil.java:332)- {"pwEnVer":"M_A_1","payPassword":"tl%2BXHhG0Bwg2xdtMozVuOBZ2S26RiBw1Awd78zBbpe4Pa5PHxf1imBDm99GpCIE6"}
+2019-05-16 10:10:31,586 INFO (HttpsClientUtil.java:332)- [["cashier","paymode-hongbao"],["cashier","paymode-account"],["cashier","paybutton-combinpay"]]
+2019-05-16 10:10:31,586 INFO (HttpsClientUtil.java:332)- {"term":"web"}
+2019-05-16 10:10:31,586 INFO (DateUtil.java:708)- 调用之前------https://epay.163.com/cashier/ajaxPay,2019/05/16-10:10:31:586
+2019-05-16 10:10:31,957 INFO (DateUtil.java:708)- 调用之后------https://epay.163.com/cashier/ajaxPay,2019/05/16-10:10:31:956
+2019-05-16 10:10:31,957 INFO (PayService.java:765)- 2019/05/16-10:10:31:957 普通支付 2019051610JY21194804 ====================={"result":"error","errorMsg":"账户余额不足，请使用其他支付方式","errorCode":"034020","errorMap":{},"bankUrl":null,"params":null,"traceCookie":false,"data":null}
+2019-05-16 10:10:31,957 INFO (PayService.java:772)- 034020
+2019-05-16 10:10:31,957 INFO (PayService.java:776)- error
+2019-05-16 10:10:31,957 INFO (PayService.java:780)- 账户余额不足，请使用其他支付方式
+2019-05-16 10:10:31,957 INFO (HttpsClientUtil.java:74)- 2019/05/16-10:10:31:957https://my.cbg.163.com/cgi/api/cancel_order
+2019-05-16 10:10:32,095 INFO (HttpsClientUtil.java:74)- 2019/05/16-10:10:32:095https://my.cbg.163.com/cgi/api/delete_order
+2019-05-16 10:10:32,293 INFO (PayService.java:879)- 初始化结束----------------------------------------
+2019-05-16 10:11:32,296 INFO (MainThreadIp2.java:72)- 挂机初始化时间
+2019-05-16 10:11:32,296 INFO (HttpsClientUtil.java:74)- 2019/05/16-10:11:32:296https://my.cbg.163.com/cgi/api/add_order
+2019-05-16 10:11:32,668 INFO (PayService.java:267)- 2019/05/16-10:11:32:668  {"status": 1, "order": {"price_total": 14888800, "orderid_to_epay": "35_10126"}}
+2019-05-16 10:11:32,689 INFO (PayService.java:284)- 2019/05/16-10:11:32:668 下单成功,支付金额为：148888元，订单号为：35_10126
+2019-05-16 10:11:32,690 INFO (PayService.java:373)- queryOrder2019/05/16-10:11:32:690
+2019-05-16 10:11:32,690 INFO (HttpsClientUtil.java:74)- 2019/05/16-10:11:32:690https://my.cbg.163.com/cgi/api/my_orders?page=1&status=1
+2019-05-16 10:11:32,741 INFO (PayService.java:377)- 所有解析之前 2019/05/16-10:11:32:741{"status": 1, "paging": {"is_last_page": true}, "unpaid_order_num": 1, "result": [{"buyer_name": "q735165876@163.com", "subtitle": "\u68a6\u5e7b\u897f\u6e38\u624b\u6e38-\u7fa4\u661f\u7480\u74a8", "is_user_cancel": false, "buy_poundages": [], "expire_remain_seconds": 1799, "expire_time": "2019-05-16 10:41:32", "create_time": "2019-05-16 10:11:32", "equipid": 4833, "buyer_fee_list": [], "pay_time": null, "equip": {"appointed_data": null, "create_time_desc": "2019-05-05 16:35:07", "storage_type": 4, "create_time": "2019-05-05 16:35:07", "equipid": 4833, "allow_multi_order": true, "collect_num": 2, "pass_fair_show": 1, "appointed_roleid": null, "fair_show_end_time": "2019-05-06 16:35:07", "platform_type": 1, "level_desc": "113\u7ea7", "highlights": ["\u53cc\u84dd\u88c5\u5907x1", "\u6ee111\u6bb5", "\u529b\u5288\u5ba0\u7269"], "min_buy_level": null, "kindid": 1, "equip_level": 113, "icon": "/game_res/res/photo/0001.png", "area_name": "\u4e00\u533a", "desc_sumup_short": "\u603b\u8bc4\u5206:44107   \u4eba\u7269\u8bc4\u5206:25878", "status": 3, "cross_buy_serverid_list": [], "equip_type": "1", "price": 14888800, "other_info": {"school": 8, "format_equip_name": "\u5316\u751f\u5bfa", "level_desc": "113\u7ea7", "highlights": ["\u53cc\u84dd\u88c5\u5907x1", "\u6ee111\u6bb5", "\u529b\u5288\u5ba0\u7269"], "desc_sumup": "\u603b\u8bc4\u5206:44107   \u4eba\u7269\u8bc4\u5206:25878", "desc_sumup_short": "\u603b\u8bc4\u5206:44107   \u4eba\u7269\u8bc4\u5206:25878", "basic_attrs": ["\u603b\u8bc4\u5206:44107", "\u4eba\u7269\u8bc4\u5206:25878"], "icon": "/game_res/res/photo/0001.png"}, "status_desc": "\u88ab\u4e0b\u5355", "expire_remain_seconds": 368614, "expire_time": "2019-05-20 16:35:07", "serverid": 35, "first_onsale_price": 14888800, "server_name": "\u7fa4\u661f\u7480\u74a8", "allow_cross_buy": false, "game_ordersn": "201904281601716-35-FWASMJAGA88E8", "web_last_price": 14888800, "equip_count": 1, "equip_name": "\u666e\u6e21\u6148\u822a", "eid": "201905051601713-35-4HA2LIN3EJCTP", "format_equip_name": "\u5316\u751f\u5bfa", "selling_time": "2019-05-05 16:35:07", "game_channel": "netease"}, "orderid_to_epay": "35_10126", "orderid": 10126, "remain_seconds": 1799, "buyer_role": null, "status": 1, "return_money_time": null, "invalid_time": null, "price": 14888800, "status_desc": "\u5f85\u4ed8\u6b3e", "wallet_pay_type": 0, "price_desc": "\uffe5148888.00", "total_poundage": 0, "serverid": 35, "total_poundage_desc": "0.00", "price_total": 14888800, "buyer_urs": "q735165876@163.com", "orderid_from_epay": "2019051610JY21217468"}]}
+2019-05-16 10:11:32,742 INFO (PayService.java:379)- 解析数组之后 2019/05/16-10:11:32:741 
+2019-05-16 10:11:32,742 INFO (PayService.java:383)- result之后 2019/05/16-10:11:32:742 
+2019-05-16 10:11:32,742 INFO (PayService.java:854)- 解析status之前 2019/05/16-10:11:32:742
+2019-05-16 10:11:32,742 INFO (PayService.java:856)- 解析status_desc之前 2019/05/16-10:11:32:742
+2019-05-16 10:11:32,742 INFO (PayService.java:858)- 订单状态：1
+2019-05-16 10:11:32,742 INFO (PayService.java:859)- 待付款
+2019-05-16 10:11:32,742 INFO (HttpsClientUtil.java:74)- 2019/05/16-10:11:32:742https://my.cbg.163.com/cgi/api/get_order_pay_info
+2019-05-16 10:11:33,886 INFO (PayService.java:504)- 35_10126 getorderinfo 返回值 {"status": 1, "pay_info": {"epay_pay_url": "https://api.epay.163.com/mwallet/order/pay.htm?msg=eyJvcmRlcklkIjogIjIwMTkwNTE2MTBKWTIxMjE3NDY4IiwgImNhbGxlclBsYXRmb3JtSWQiOiAiMjAxNzExMjAxNlBUNTM4NzU3NDYiLCAicGxhdGZvcm1JZCI6ICIyMDE4MDQyNTEzUFQ1NTA1MDc2NiIsICJ2ZXJzaW9uIjogIjEuMC4wIiwgInBheVN0cmF0ZWd5IjogIntcIndhbGxldFR5cGVcIjogXCJDQkdfV0FMTEVUXCIsIFwiZXBheUFtb3VudFwiOiAxNDg4ODguMCwgXCJtZXJjaGFudFdhbGxldEFtb3VudFwiOiAwLjAsIFwidXNlSW5zcGVjdEJhbGFuY2VcIjogZmFsc2UsIFwib3V0ZXJDaGFyZ2VGZWVOb3RlXCI6IHtcImFwRmVlXCI6IDAuMCwgXCJ3eEZlZVwiOiAwLjB9LCBcIm91dGVyQ2hhcmdlRmVlU3RyYXRlZ3lcIjoge1wiYXBGZWVcIjogMTYzNy43NywgXCJ3eEZlZVwiOiAxMDQyLjIyfX0iLCAiYWNjb3VudElkIjogInE3MzUxNjU4NzZAMTYzLmNvbSJ9&msgType=JSON&sign=jMJKzIqK7PrtJTYINmuWLYQ8aHClDbh8xVrlcpN%2Bx9KoR7B5bCiiA0De7CxxtuS%2FIhL0iaV7xXfg35lRQhiOxZFNsL16CfZX2Rybwcujl1L33%2BceCw1XBQSNzN1XhTk4T6TKX3S7afJMdqKOw0PbcY7tLLYkbJezqyx9JjPnNmchkW1I0EZbn2MC3zo1S5J0eHq0a8ToiFcJY0pEUh%2BR5Fnc83rUgvk7IgibU%2BwQjpiLvQBdqEG3QX8vkPkY1NudBTe%2BejHKHYWPPop%2BhktOELZy7RZMEoDbb%2FtMX87tZYVMst9Lr0z8bmfCegrV2F%2BGnbc7JixWMULHGoophymdHw%3D%3D", "mobile_info": null, "full_pay_by_wallet": false}}
+2019-05-16 10:11:33,887 INFO (PayService.java:512)- 35_10126---------jieximsg之后 null
+2019-05-16 10:11:33,887 INFO (PayService.java:515)- 35_10126---------解析epay_pay_url之前
+2019-05-16 10:11:33,887 INFO (PayService.java:864)- 增加订单里的===============获取支付地址完成 2019/05/16-10:11:33:887 https://api.epay.163.com/mwallet/order/pay.htm?msg=eyJvcmRlcklkIjogIjIwMTkwNTE2MTBKWTIxMjE3NDY4IiwgImNhbGxlclBsYXRmb3JtSWQiOiAiMjAxNzExMjAxNlBUNTM4NzU3NDYiLCAicGxhdGZvcm1JZCI6ICIyMDE4MDQyNTEzUFQ1NTA1MDc2NiIsICJ2ZXJzaW9uIjogIjEuMC4wIiwgInBheVN0cmF0ZWd5IjogIntcIndhbGxldFR5cGVcIjogXCJDQkdfV0FMTEVUXCIsIFwiZXBheUFtb3VudFwiOiAxNDg4ODguMCwgXCJtZXJjaGFudFdhbGxldEFtb3VudFwiOiAwLjAsIFwidXNlSW5zcGVjdEJhbGFuY2VcIjogZmFsc2UsIFwib3V0ZXJDaGFyZ2VGZWVOb3RlXCI6IHtcImFwRmVlXCI6IDAuMCwgXCJ3eEZlZVwiOiAwLjB9LCBcIm91dGVyQ2hhcmdlRmVlU3RyYXRlZ3lcIjoge1wiYXBGZWVcIjogMTYzNy43NywgXCJ3eEZlZVwiOiAxMDQyLjIyfX0iLCAiYWNjb3VudElkIjogInE3MzUxNjU4NzZAMTYzLmNvbSJ9&msgType=JSON&sign=jMJKzIqK7PrtJTYINmuWLYQ8aHClDbh8xVrlcpN%2Bx9KoR7B5bCiiA0De7CxxtuS%2FIhL0iaV7xXfg35lRQhiOxZFNsL16CfZX2Rybwcujl1L33%2BceCw1XBQSNzN1XhTk4T6TKX3S7afJMdqKOw0PbcY7tLLYkbJezqyx9JjPnNmchkW1I0EZbn2MC3zo1S5J0eHq0a8ToiFcJY0pEUh%2BR5Fnc83rUgvk7IgibU%2BwQjpiLvQBdqEG3QX8vkPkY1NudBTe%2BejHKHYWPPop%2BhktOELZy7RZMEoDbb%2FtMX87tZYVMst9Lr0z8bmfCegrV2F%2BGnbc7JixWMULHGoophymdHw%3D%3D
+2019-05-16 10:11:33,887 INFO (DateUtil.java:698)- 2019/05/16-10:11:33:887
+2019-05-16 10:11:33,986 INFO (PayService.java:631)- 2019/05/16-10:11:33:985---------返回getPayNo方法
+2019-05-16 10:11:33,986 INFO (PayService.java:638)- 2019/05/16-10:11:33:986 真实支付地址为：https://epay.163.com/cashier/standardCashier?orderId=2019051610JY21217688
+2019-05-16 10:11:33,987 INFO (PayService.java:649)- 2019/05/16-10:11:33:987---------getPayNo方法return之前
+2019-05-16 10:11:33,987 INFO (PayService.java:867)- 增加订单里的===============访问支付地址完成 2019051610JY21217688 2019/05/16-10:11:33:987
+2019-05-16 10:11:33,987 INFO (HttpsClientUtil.java:332)- {"coupon":null,"balance":{"payAmount":"148888.00"},"orderId":"2019051610JY21217688"}
+2019-05-16 10:11:33,987 INFO (HttpsClientUtil.java:332)- {"pwEnVer":"M_A_1","payPassword":"tl%2BXHhG0Bwg2xdtMozVuOBZ2S26RiBw1Awd78zBbpe4Pa5PHxf1imBDm99GpCIE6"}
+2019-05-16 10:11:33,987 INFO (HttpsClientUtil.java:332)- [["cashier","paymode-hongbao"],["cashier","paymode-account"],["cashier","paybutton-combinpay"]]
+2019-05-16 10:11:33,988 INFO (HttpsClientUtil.java:332)- {"term":"web"}
+2019-05-16 10:11:33,988 INFO (DateUtil.java:708)- 调用之前------https://epay.163.com/cashier/ajaxPay,2019/05/16-10:11:33:988
+2019-05-16 10:11:34,286 INFO (DateUtil.java:708)- 调用之后------https://epay.163.com/cashier/ajaxPay,2019/05/16-10:11:34:286
+2019-05-16 10:11:34,286 INFO (PayService.java:765)- 2019/05/16-10:11:34:286 普通支付 2019051610JY21217688 ====================={"result":"error","errorMsg":"账户余额不足，请使用其他支付方式","errorCode":"034020","errorMap":{},"bankUrl":null,"params":null,"traceCookie":false,"data":null}
+2019-05-16 10:11:34,286 INFO (PayService.java:772)- 034020
+2019-05-16 10:11:34,287 INFO (PayService.java:776)- error
+2019-05-16 10:11:34,287 INFO (PayService.java:780)- 账户余额不足，请使用其他支付方式
+2019-05-16 10:11:34,287 INFO (HttpsClientUtil.java:74)- 2019/05/16-10:11:34:287https://my.cbg.163.com/cgi/api/cancel_order
+2019-05-16 10:11:34,355 INFO (HttpsClientUtil.java:74)- 2019/05/16-10:11:34:355https://my.cbg.163.com/cgi/api/delete_order
+2019-05-16 10:11:34,459 INFO (PayService.java:879)- 初始化结束----------------------------------------
+2019-05-16 10:12:34,462 INFO (MainThreadIp2.java:72)- 挂机初始化时间
+2019-05-16 10:12:34,462 INFO (HttpsClientUtil.java:74)- 2019/05/16-10:12:34:462https://my.cbg.163.com/cgi/api/add_order
+2019-05-16 10:12:34,700 INFO (PayService.java:267)- 2019/05/16-10:12:34:700  {"status": 1, "order": {"price_total": 14888800, "orderid_to_epay": "35_10127"}}
+2019-05-16 10:12:34,700 INFO (PayService.java:284)- 2019/05/16-10:12:34:700 下单成功,支付金额为：148888元，订单号为：35_10127
+2019-05-16 10:12:34,700 INFO (PayService.java:373)- queryOrder2019/05/16-10:12:34:700
+2019-05-16 10:12:34,700 INFO (HttpsClientUtil.java:74)- 2019/05/16-10:12:34:700https://my.cbg.163.com/cgi/api/my_orders?page=1&status=1
+2019-05-16 10:12:34,747 INFO (PayService.java:377)- 所有解析之前 2019/05/16-10:12:34:747{"status": 1, "paging": {"is_last_page": true}, "unpaid_order_num": 1, "result": [{"buyer_name": "q735165876@163.com", "subtitle": "\u68a6\u5e7b\u897f\u6e38\u624b\u6e38-\u7fa4\u661f\u7480\u74a8", "is_user_cancel": false, "buy_poundages": [], "expire_remain_seconds": 1799, "expire_time": "2019-05-16 10:42:34", "create_time": "2019-05-16 10:12:34", "equipid": 4833, "buyer_fee_list": [], "pay_time": null, "equip": {"appointed_data": null, "create_time_desc": "2019-05-05 16:35:07", "storage_type": 4, "create_time": "2019-05-05 16:35:07", "equipid": 4833, "allow_multi_order": true, "collect_num": 2, "pass_fair_show": 1, "appointed_roleid": null, "fair_show_end_time": "2019-05-06 16:35:07", "platform_type": 1, "level_desc": "113\u7ea7", "highlights": ["\u53cc\u84dd\u88c5\u5907x1", "\u6ee111\u6bb5", "\u529b\u5288\u5ba0\u7269"], "min_buy_level": null, "kindid": 1, "equip_level": 113, "icon": "/game_res/res/photo/0001.png", "area_name": "\u4e00\u533a", "desc_sumup_short": "\u603b\u8bc4\u5206:44107   \u4eba\u7269\u8bc4\u5206:25878", "status": 3, "cross_buy_serverid_list": [], "equip_type": "1", "price": 14888800, "other_info": {"school": 8, "format_equip_name": "\u5316\u751f\u5bfa", "level_desc": "113\u7ea7", "highlights": ["\u53cc\u84dd\u88c5\u5907x1", "\u6ee111\u6bb5", "\u529b\u5288\u5ba0\u7269"], "desc_sumup": "\u603b\u8bc4\u5206:44107   \u4eba\u7269\u8bc4\u5206:25878", "desc_sumup_short": "\u603b\u8bc4\u5206:44107   \u4eba\u7269\u8bc4\u5206:25878", "basic_attrs": ["\u603b\u8bc4\u5206:44107", "\u4eba\u7269\u8bc4\u5206:25878"], "icon": "/game_res/res/photo/0001.png"}, "status_desc": "\u88ab\u4e0b\u5355", "expire_remain_seconds": 368552, "expire_time": "2019-05-20 16:35:07", "serverid": 35, "first_onsale_price": 14888800, "server_name": "\u7fa4\u661f\u7480\u74a8", "allow_cross_buy": false, "game_ordersn": "201904281601716-35-FWASMJAGA88E8", "web_last_price": 14888800, "equip_count": 1, "equip_name": "\u666e\u6e21\u6148\u822a", "eid": "201905051601713-35-4HA2LIN3EJCTP", "format_equip_name": "\u5316\u751f\u5bfa", "selling_time": "2019-05-05 16:35:07", "game_channel": "netease"}, "orderid_to_epay": "35_10127", "orderid": 10127, "remain_seconds": 1799, "buyer_role": null, "status": 1, "return_money_time": null, "invalid_time": null, "price": 14888800, "status_desc": "\u5f85\u4ed8\u6b3e", "wallet_pay_type": 0, "price_desc": "\uffe5148888.00", "total_poundage": 0, "serverid": 35, "total_poundage_desc": "0.00", "price_total": 14888800, "buyer_urs": "q735165876@163.com", "orderid_from_epay": "2019051610JY21228234"}]}
+2019-05-16 10:12:34,747 INFO (PayService.java:379)- 解析数组之后 2019/05/16-10:12:34:747 
+2019-05-16 10:12:34,747 INFO (PayService.java:383)- result之后 2019/05/16-10:12:34:747 
+2019-05-16 10:12:34,747 INFO (PayService.java:854)- 解析status之前 2019/05/16-10:12:34:747
+2019-05-16 10:12:34,747 INFO (PayService.java:856)- 解析status_desc之前 2019/05/16-10:12:34:747
+2019-05-16 10:12:34,748 INFO (PayService.java:858)- 订单状态：1
+2019-05-16 10:12:34,748 INFO (PayService.java:859)- 待付款
+2019-05-16 10:12:34,748 INFO (HttpsClientUtil.java:74)- 2019/05/16-10:12:34:748https://my.cbg.163.com/cgi/api/get_order_pay_info
+2019-05-16 10:12:34,799 INFO (PayService.java:504)- 35_10127 getorderinfo 返回值 {"status": 1, "pay_info": {"epay_pay_url": "https://api.epay.163.com/mwallet/order/pay.htm?msg=eyJvcmRlcklkIjogIjIwMTkwNTE2MTBKWTIxMjI4MjM0IiwgImNhbGxlclBsYXRmb3JtSWQiOiAiMjAxNzExMjAxNlBUNTM4NzU3NDYiLCAicGxhdGZvcm1JZCI6ICIyMDE4MDQyNTEzUFQ1NTA1MDc2NiIsICJ2ZXJzaW9uIjogIjEuMC4wIiwgInBheVN0cmF0ZWd5IjogIntcIndhbGxldFR5cGVcIjogXCJDQkdfV0FMTEVUXCIsIFwiZXBheUFtb3VudFwiOiAxNDg4ODguMCwgXCJtZXJjaGFudFdhbGxldEFtb3VudFwiOiAwLjAsIFwidXNlSW5zcGVjdEJhbGFuY2VcIjogZmFsc2UsIFwib3V0ZXJDaGFyZ2VGZWVOb3RlXCI6IHtcImFwRmVlXCI6IDAuMCwgXCJ3eEZlZVwiOiAwLjB9LCBcIm91dGVyQ2hhcmdlRmVlU3RyYXRlZ3lcIjoge1wiYXBGZWVcIjogMTYzNy43NywgXCJ3eEZlZVwiOiAxMDQyLjIyfX0iLCAiYWNjb3VudElkIjogInE3MzUxNjU4NzZAMTYzLmNvbSJ9&msgType=JSON&sign=N4GzNnXbB0Z4N73t%2BhMdUlhu7Et7wwV4n7cRKluIwr8vW95muhYR1CB5gCbIPQ4kUcY47oEM64hzx7vrL4QuPy5%2FAWgT6haMZbc%2FZzxx4jOmm%2Bpb9G0SEldITKJLsmB%2Fiwx%2FjaVtW40Zo7MZXg5ppM2K7AIc8K6ekEznrbYGry1n%2F%2BdEsa5DI%2Bgw64Lt0t5WYZJpt5V4dn6ewvfZm1Jt57EWSyXv1Nfyi0%2BQ9vwCAQsIEpraF3H9XUDeSPd24zMR8rE2QlXhwdLrBAWe6ALwP%2FLhqw1Chzp4YKMHfMQeOeWCRUEuvrc06mwKgO%2B%2F7jYpq0BcAbuFU6skHS%2BDIj0p%2Fw%3D%3D", "mobile_info": null, "full_pay_by_wallet": false}}
+2019-05-16 10:12:34,799 INFO (PayService.java:512)- 35_10127---------jieximsg之后 null
+2019-05-16 10:12:34,799 INFO (PayService.java:515)- 35_10127---------解析epay_pay_url之前
+2019-05-16 10:12:34,799 INFO (PayService.java:864)- 增加订单里的===============获取支付地址完成 2019/05/16-10:12:34:799 https://api.epay.163.com/mwallet/order/pay.htm?msg=eyJvcmRlcklkIjogIjIwMTkwNTE2MTBKWTIxMjI4MjM0IiwgImNhbGxlclBsYXRmb3JtSWQiOiAiMjAxNzExMjAxNlBUNTM4NzU3NDYiLCAicGxhdGZvcm1JZCI6ICIyMDE4MDQyNTEzUFQ1NTA1MDc2NiIsICJ2ZXJzaW9uIjogIjEuMC4wIiwgInBheVN0cmF0ZWd5IjogIntcIndhbGxldFR5cGVcIjogXCJDQkdfV0FMTEVUXCIsIFwiZXBheUFtb3VudFwiOiAxNDg4ODguMCwgXCJtZXJjaGFudFdhbGxldEFtb3VudFwiOiAwLjAsIFwidXNlSW5zcGVjdEJhbGFuY2VcIjogZmFsc2UsIFwib3V0ZXJDaGFyZ2VGZWVOb3RlXCI6IHtcImFwRmVlXCI6IDAuMCwgXCJ3eEZlZVwiOiAwLjB9LCBcIm91dGVyQ2hhcmdlRmVlU3RyYXRlZ3lcIjoge1wiYXBGZWVcIjogMTYzNy43NywgXCJ3eEZlZVwiOiAxMDQyLjIyfX0iLCAiYWNjb3VudElkIjogInE3MzUxNjU4NzZAMTYzLmNvbSJ9&msgType=JSON&sign=N4GzNnXbB0Z4N73t%2BhMdUlhu7Et7wwV4n7cRKluIwr8vW95muhYR1CB5gCbIPQ4kUcY47oEM64hzx7vrL4QuPy5%2FAWgT6haMZbc%2FZzxx4jOmm%2Bpb9G0SEldITKJLsmB%2Fiwx%2FjaVtW40Zo7MZXg5ppM2K7AIc8K6ekEznrbYGry1n%2F%2BdEsa5DI%2Bgw64Lt0t5WYZJpt5V4dn6ewvfZm1Jt57EWSyXv1Nfyi0%2BQ9vwCAQsIEpraF3H9XUDeSPd24zMR8rE2QlXhwdLrBAWe6ALwP%2FLhqw1Chzp4YKMHfMQeOeWCRUEuvrc06mwKgO%2B%2F7jYpq0BcAbuFU6skHS%2BDIj0p%2Fw%3D%3D
+2019-05-16 10:12:34,799 INFO (DateUtil.java:698)- 2019/05/16-10:12:34:799
+2019-05-16 10:12:34,952 INFO (PayService.java:631)- 2019/05/16-10:12:34:952---------返回getPayNo方法
+2019-05-16 10:12:34,952 INFO (PayService.java:638)- 2019/05/16-10:12:34:952 真实支付地址为：https://epay.163.com/cashier/standardCashier?orderId=2019051610JY21228280
+2019-05-16 10:12:34,953 INFO (PayService.java:649)- 2019/05/16-10:12:34:953---------getPayNo方法return之前
+2019-05-16 10:12:34,953 INFO (PayService.java:867)- 增加订单里的===============访问支付地址完成 2019051610JY21228280 2019/05/16-10:12:34:953
+2019-05-16 10:12:34,953 INFO (HttpsClientUtil.java:332)- {"coupon":null,"balance":{"payAmount":"148888.00"},"orderId":"2019051610JY21228280"}
+2019-05-16 10:12:34,953 INFO (HttpsClientUtil.java:332)- {"pwEnVer":"M_A_1","payPassword":"tl%2BXHhG0Bwg2xdtMozVuOBZ2S26RiBw1Awd78zBbpe4Pa5PHxf1imBDm99GpCIE6"}
+2019-05-16 10:12:34,953 INFO (HttpsClientUtil.java:332)- [["cashier","paymode-hongbao"],["cashier","paymode-account"],["cashier","paybutton-combinpay"]]
+2019-05-16 10:12:34,953 INFO (HttpsClientUtil.java:332)- {"term":"web"}
+2019-05-16 10:12:34,953 INFO (DateUtil.java:708)- 调用之前------https://epay.163.com/cashier/ajaxPay,2019/05/16-10:12:34:953
+2019-05-16 10:12:35,161 INFO (DateUtil.java:708)- 调用之后------https://epay.163.com/cashier/ajaxPay,2019/05/16-10:12:35:161
+2019-05-16 10:12:35,161 INFO (PayService.java:765)- 2019/05/16-10:12:35:161 普通支付 2019051610JY21228280 ====================={"result":"error","errorMsg":"账户余额不足，请使用其他支付方式","errorCode":"034020","errorMap":{},"bankUrl":null,"params":null,"traceCookie":false,"data":null}
+2019-05-16 10:12:35,162 INFO (PayService.java:772)- 034020
+2019-05-16 10:12:35,162 INFO (PayService.java:776)- error
+2019-05-16 10:12:35,162 INFO (PayService.java:780)- 账户余额不足，请使用其他支付方式
+2019-05-16 10:12:35,162 INFO (HttpsClientUtil.java:74)- 2019/05/16-10:12:35:162https://my.cbg.163.com/cgi/api/cancel_order
+2019-05-16 10:12:35,313 INFO (HttpsClientUtil.java:74)- 2019/05/16-10:12:35:313https://my.cbg.163.com/cgi/api/delete_order
+2019-05-16 10:12:35,412 INFO (PayService.java:879)- 初始化结束----------------------------------------
+2019-05-16 10:13:35,415 INFO (MainThreadIp2.java:72)- 挂机初始化时间
+2019-05-16 10:13:35,415 INFO (HttpsClientUtil.java:74)- 2019/05/16-10:13:35:415https://my.cbg.163.com/cgi/api/add_order
+2019-05-16 10:13:35,693 INFO (PayService.java:267)- 2019/05/16-10:13:35:693  {"status": 1, "order": {"price_total": 14888800, "orderid_to_epay": "35_10128"}}
+2019-05-16 10:13:35,693 INFO (PayService.java:284)- 2019/05/16-10:13:35:693 下单成功,支付金额为：148888元，订单号为：35_10128
+2019-05-16 10:13:35,693 INFO (PayService.java:373)- queryOrder2019/05/16-10:13:35:693
+2019-05-16 10:13:35,693 INFO (HttpsClientUtil.java:74)- 2019/05/16-10:13:35:693https://my.cbg.163.com/cgi/api/my_orders?page=1&status=1
+2019-05-16 10:13:35,803 INFO (PayService.java:377)- 所有解析之前 2019/05/16-10:13:35:803{"status": 1, "paging": {"is_last_page": true}, "unpaid_order_num": 1, "result": [{"buyer_name": "q735165876@163.com", "subtitle": "\u68a6\u5e7b\u897f\u6e38\u624b\u6e38-\u7fa4\u661f\u7480\u74a8", "is_user_cancel": false, "buy_poundages": [], "expire_remain_seconds": 1799, "expire_time": "2019-05-16 10:43:35", "create_time": "2019-05-16 10:13:35", "equipid": 4833, "buyer_fee_list": [], "pay_time": null, "equip": {"appointed_data": null, "create_time_desc": "2019-05-05 16:35:07", "storage_type": 4, "create_time": "2019-05-05 16:35:07", "equipid": 4833, "allow_multi_order": true, "collect_num": 2, "pass_fair_show": 1, "appointed_roleid": null, "fair_show_end_time": "2019-05-06 16:35:07", "platform_type": 1, "level_desc": "113\u7ea7", "highlights": ["\u53cc\u84dd\u88c5\u5907x1", "\u6ee111\u6bb5", "\u529b\u5288\u5ba0\u7269"], "min_buy_level": null, "kindid": 1, "equip_level": 113, "icon": "/game_res/res/photo/0001.png", "area_name": "\u4e00\u533a", "desc_sumup_short": "\u603b\u8bc4\u5206:44107   \u4eba\u7269\u8bc4\u5206:25878", "status": 3, "cross_buy_serverid_list": [], "equip_type": "1", "price": 14888800, "other_info": {"school": 8, "format_equip_name": "\u5316\u751f\u5bfa", "level_desc": "113\u7ea7", "highlights": ["\u53cc\u84dd\u88c5\u5907x1", "\u6ee111\u6bb5", "\u529b\u5288\u5ba0\u7269"], "desc_sumup": "\u603b\u8bc4\u5206:44107   \u4eba\u7269\u8bc4\u5206:25878", "desc_sumup_short": "\u603b\u8bc4\u5206:44107   \u4eba\u7269\u8bc4\u5206:25878", "basic_attrs": ["\u603b\u8bc4\u5206:44107", "\u4eba\u7269\u8bc4\u5206:25878"], "icon": "/game_res/res/photo/0001.png"}, "status_desc": "\u88ab\u4e0b\u5355", "expire_remain_seconds": 368491, "expire_time": "2019-05-20 16:35:07", "serverid": 35, "first_onsale_price": 14888800, "server_name": "\u7fa4\u661f\u7480\u74a8", "allow_cross_buy": false, "game_ordersn": "201904281601716-35-FWASMJAGA88E8", "web_last_price": 14888800, "equip_count": 1, "equip_name": "\u666e\u6e21\u6148\u822a", "eid": "201905051601713-35-4HA2LIN3EJCTP", "format_equip_name": "\u5316\u751f\u5bfa", "selling_time": "2019-05-05 16:35:07", "game_channel": "netease"}, "orderid_to_epay": "35_10128", "orderid": 10128, "remain_seconds": 1799, "buyer_role": null, "status": 1, "return_money_time": null, "invalid_time": null, "price": 14888800, "status_desc": "\u5f85\u4ed8\u6b3e", "wallet_pay_type": 0, "price_desc": "\uffe5148888.00", "total_poundage": 0, "serverid": 35, "total_poundage_desc": "0.00", "price_total": 14888800, "buyer_urs": "q735165876@163.com", "orderid_from_epay": "2019051610JY21238145"}]}
+2019-05-16 10:13:35,804 INFO (PayService.java:379)- 解析数组之后 2019/05/16-10:13:35:804 
+2019-05-16 10:13:35,805 INFO (PayService.java:383)- result之后 2019/05/16-10:13:35:805 
+2019-05-16 10:13:35,805 INFO (PayService.java:854)- 解析status之前 2019/05/16-10:13:35:805
+2019-05-16 10:13:35,806 INFO (PayService.java:856)- 解析status_desc之前 2019/05/16-10:13:35:806
+2019-05-16 10:13:35,806 INFO (PayService.java:858)- 订单状态：1
+2019-05-16 10:13:35,806 INFO (PayService.java:859)- 待付款
+2019-05-16 10:13:35,806 INFO (HttpsClientUtil.java:74)- 2019/05/16-10:13:35:806https://my.cbg.163.com/cgi/api/get_order_pay_info
+2019-05-16 10:13:35,866 INFO (PayService.java:504)- 35_10128 getorderinfo 返回值 {"status": 1, "pay_info": {"epay_pay_url": "https://api.epay.163.com/mwallet/order/pay.htm?msg=eyJvcmRlcklkIjogIjIwMTkwNTE2MTBKWTIxMjM4MTQ1IiwgImNhbGxlclBsYXRmb3JtSWQiOiAiMjAxNzExMjAxNlBUNTM4NzU3NDYiLCAicGxhdGZvcm1JZCI6ICIyMDE4MDQyNTEzUFQ1NTA1MDc2NiIsICJ2ZXJzaW9uIjogIjEuMC4wIiwgInBheVN0cmF0ZWd5IjogIntcIndhbGxldFR5cGVcIjogXCJDQkdfV0FMTEVUXCIsIFwiZXBheUFtb3VudFwiOiAxNDg4ODguMCwgXCJtZXJjaGFudFdhbGxldEFtb3VudFwiOiAwLjAsIFwidXNlSW5zcGVjdEJhbGFuY2VcIjogZmFsc2UsIFwib3V0ZXJDaGFyZ2VGZWVOb3RlXCI6IHtcImFwRmVlXCI6IDAuMCwgXCJ3eEZlZVwiOiAwLjB9LCBcIm91dGVyQ2hhcmdlRmVlU3RyYXRlZ3lcIjoge1wiYXBGZWVcIjogMTYzNy43NywgXCJ3eEZlZVwiOiAxMDQyLjIyfX0iLCAiYWNjb3VudElkIjogInE3MzUxNjU4NzZAMTYzLmNvbSJ9&msgType=JSON&sign=HLmOKhpCjt7iGCQpxCWvG9%2BMsIdT23nBvcKLCocpLeHtx8fEQXsn5jIgR4qG9lZ8IcaTdhX2ICMMmH01zLqoGxgCFoRRYDiPwJ6Lko10S17N338liI%2FfM8N34eOu0upw1FVzJ0kzrLYunHKKZHsE5J7K1cFz7Fa3WWUcPNwrZSP77PHmeuJ6wtE%2B4%2BLlph8VVGiHgOmW7FTGZj9jQhJMjBUANb7hcXmqsRwoZ1SekK25jBqT%2BdhvvOg%2B3TciBhIHby30fpFRO4ZT6%2FjGM7eiUekdGQgicVRWqftjFwdbghGX%2BiCsBLZYgkpXERYqLUfNhIIjmduOgQffN1NmFXqLNQ%3D%3D", "mobile_info": null, "full_pay_by_wallet": false}}
+2019-05-16 10:13:35,866 INFO (PayService.java:512)- 35_10128---------jieximsg之后 null
+2019-05-16 10:13:35,866 INFO (PayService.java:515)- 35_10128---------解析epay_pay_url之前
+2019-05-16 10:13:35,866 INFO (PayService.java:864)- 增加订单里的===============获取支付地址完成 2019/05/16-10:13:35:866 https://api.epay.163.com/mwallet/order/pay.htm?msg=eyJvcmRlcklkIjogIjIwMTkwNTE2MTBKWTIxMjM4MTQ1IiwgImNhbGxlclBsYXRmb3JtSWQiOiAiMjAxNzExMjAxNlBUNTM4NzU3NDYiLCAicGxhdGZvcm1JZCI6ICIyMDE4MDQyNTEzUFQ1NTA1MDc2NiIsICJ2ZXJzaW9uIjogIjEuMC4wIiwgInBheVN0cmF0ZWd5IjogIntcIndhbGxldFR5cGVcIjogXCJDQkdfV0FMTEVUXCIsIFwiZXBheUFtb3VudFwiOiAxNDg4ODguMCwgXCJtZXJjaGFudFdhbGxldEFtb3VudFwiOiAwLjAsIFwidXNlSW5zcGVjdEJhbGFuY2VcIjogZmFsc2UsIFwib3V0ZXJDaGFyZ2VGZWVOb3RlXCI6IHtcImFwRmVlXCI6IDAuMCwgXCJ3eEZlZVwiOiAwLjB9LCBcIm91dGVyQ2hhcmdlRmVlU3RyYXRlZ3lcIjoge1wiYXBGZWVcIjogMTYzNy43NywgXCJ3eEZlZVwiOiAxMDQyLjIyfX0iLCAiYWNjb3VudElkIjogInE3MzUxNjU4NzZAMTYzLmNvbSJ9&msgType=JSON&sign=HLmOKhpCjt7iGCQpxCWvG9%2BMsIdT23nBvcKLCocpLeHtx8fEQXsn5jIgR4qG9lZ8IcaTdhX2ICMMmH01zLqoGxgCFoRRYDiPwJ6Lko10S17N338liI%2FfM8N34eOu0upw1FVzJ0kzrLYunHKKZHsE5J7K1cFz7Fa3WWUcPNwrZSP77PHmeuJ6wtE%2B4%2BLlph8VVGiHgOmW7FTGZj9jQhJMjBUANb7hcXmqsRwoZ1SekK25jBqT%2BdhvvOg%2B3TciBhIHby30fpFRO4ZT6%2FjGM7eiUekdGQgicVRWqftjFwdbghGX%2BiCsBLZYgkpXERYqLUfNhIIjmduOgQffN1NmFXqLNQ%3D%3D
+2019-05-16 10:13:35,866 INFO (DateUtil.java:698)- 2019/05/16-10:13:35:866
+2019-05-16 10:13:35,990 INFO (PayService.java:631)- 2019/05/16-10:13:35:990---------返回getPayNo方法
+2019-05-16 10:13:35,990 INFO (PayService.java:638)- 2019/05/16-10:13:35:990 真实支付地址为：https://epay.163.com/cashier/standardCashier?orderId=2019051610JY21238178
+2019-05-16 10:13:35,991 INFO (PayService.java:649)- 2019/05/16-10:13:35:991---------getPayNo方法return之前
+2019-05-16 10:13:35,991 INFO (PayService.java:867)- 增加订单里的===============访问支付地址完成 2019051610JY21238178 2019/05/16-10:13:35:991
+2019-05-16 10:13:35,991 INFO (HttpsClientUtil.java:332)- {"coupon":null,"balance":{"payAmount":"148888.00"},"orderId":"2019051610JY21238178"}
+2019-05-16 10:13:35,991 INFO (HttpsClientUtil.java:332)- {"pwEnVer":"M_A_1","payPassword":"tl%2BXHhG0Bwg2xdtMozVuOBZ2S26RiBw1Awd78zBbpe4Pa5PHxf1imBDm99GpCIE6"}
+2019-05-16 10:13:35,991 INFO (HttpsClientUtil.java:332)- [["cashier","paymode-hongbao"],["cashier","paymode-account"],["cashier","paybutton-combinpay"]]
+2019-05-16 10:13:35,991 INFO (HttpsClientUtil.java:332)- {"term":"web"}
+2019-05-16 10:13:35,991 INFO (DateUtil.java:708)- 调用之前------https://epay.163.com/cashier/ajaxPay,2019/05/16-10:13:35:991
+2019-05-16 10:13:36,289 INFO (DateUtil.java:708)- 调用之后------https://epay.163.com/cashier/ajaxPay,2019/05/16-10:13:36:289
+2019-05-16 10:13:36,290 INFO (PayService.java:765)- 2019/05/16-10:13:36:290 普通支付 2019051610JY21238178 ====================={"result":"error","errorMsg":"账户余额不足，请使用其他支付方式","errorCode":"034020","errorMap":{},"bankUrl":null,"params":null,"traceCookie":false,"data":null}
+2019-05-16 10:13:36,290 INFO (PayService.java:772)- 034020
+2019-05-16 10:13:36,290 INFO (PayService.java:776)- error
+2019-05-16 10:13:36,290 INFO (PayService.java:780)- 账户余额不足，请使用其他支付方式
+2019-05-16 10:13:36,290 INFO (HttpsClientUtil.java:74)- 2019/05/16-10:13:36:290https://my.cbg.163.com/cgi/api/cancel_order
+2019-05-16 10:13:36,366 INFO (HttpsClientUtil.java:74)- 2019/05/16-10:13:36:366https://my.cbg.163.com/cgi/api/delete_order
+2019-05-16 10:13:36,410 INFO (PayService.java:879)- 初始化结束----------------------------------------
+2019-05-16 10:14:36,414 INFO (MainThreadIp2.java:72)- 挂机初始化时间
+2019-05-16 10:14:36,414 INFO (HttpsClientUtil.java:74)- 2019/05/16-10:14:36:414https://my.cbg.163.com/cgi/api/add_order
+2019-05-16 10:14:36,747 INFO (PayService.java:267)- 2019/05/16-10:14:36:747  {"status": 1, "order": {"price_total": 14888800, "orderid_to_epay": "35_10129"}}
+2019-05-16 10:14:36,748 INFO (PayService.java:284)- 2019/05/16-10:14:36:748 下单成功,支付金额为：148888元，订单号为：35_10129
+2019-05-16 10:14:36,748 INFO (PayService.java:373)- queryOrder2019/05/16-10:14:36:748
+2019-05-16 10:14:36,748 INFO (HttpsClientUtil.java:74)- 2019/05/16-10:14:36:748https://my.cbg.163.com/cgi/api/my_orders?page=1&status=1
+2019-05-16 10:14:36,881 INFO (PayService.java:377)- 所有解析之前 2019/05/16-10:14:36:880{"status": 1, "paging": {"is_last_page": true}, "unpaid_order_num": 1, "result": [{"buyer_name": "q735165876@163.com", "subtitle": "\u68a6\u5e7b\u897f\u6e38\u624b\u6e38-\u7fa4\u661f\u7480\u74a8", "is_user_cancel": false, "buy_poundages": [], "expire_remain_seconds": 1799, "expire_time": "2019-05-16 10:44:36", "create_time": "2019-05-16 10:14:36", "equipid": 4833, "buyer_fee_list": [], "pay_time": null, "equip": {"appointed_data": null, "create_time_desc": "2019-05-05 16:35:07", "storage_type": 4, "create_time": "2019-05-05 16:35:07", "equipid": 4833, "allow_multi_order": true, "collect_num": 2, "pass_fair_show": 1, "appointed_roleid": null, "fair_show_end_time": "2019-05-06 16:35:07", "platform_type": 1, "level_desc": "113\u7ea7", "highlights": ["\u53cc\u84dd\u88c5\u5907x1", "\u6ee111\u6bb5", "\u529b\u5288\u5ba0\u7269"], "min_buy_level": null, "kindid": 1, "equip_level": 113, "icon": "/game_res/res/photo/0001.png", "area_name": "\u4e00\u533a", "desc_sumup_short": "\u603b\u8bc4\u5206:44107   \u4eba\u7269\u8bc4\u5206:25878", "status": 3, "cross_buy_serverid_list": [], "equip_type": "1", "price": 14888800, "other_info": {"school": 8, "format_equip_name": "\u5316\u751f\u5bfa", "level_desc": "113\u7ea7", "highlights": ["\u53cc\u84dd\u88c5\u5907x1", "\u6ee111\u6bb5", "\u529b\u5288\u5ba0\u7269"], "desc_sumup": "\u603b\u8bc4\u5206:44107   \u4eba\u7269\u8bc4\u5206:25878", "desc_sumup_short": "\u603b\u8bc4\u5206:44107   \u4eba\u7269\u8bc4\u5206:25878", "basic_attrs": ["\u603b\u8bc4\u5206:44107", "\u4eba\u7269\u8bc4\u5206:25878"], "icon": "/game_res/res/photo/0001.png"}, "status_desc": "\u88ab\u4e0b\u5355", "expire_remain_seconds": 368430, "expire_time": "2019-05-20 16:35:07", "serverid": 35, "first_onsale_price": 14888800, "server_name": "\u7fa4\u661f\u7480\u74a8", "allow_cross_buy": false, "game_ordersn": "201904281601716-35-FWASMJAGA88E8", "web_last_price": 14888800, "equip_count": 1, "equip_name": "\u666e\u6e21\u6148\u822a", "eid": "201905051601713-35-4HA2LIN3EJCTP", "format_equip_name": "\u5316\u751f\u5bfa", "selling_time": "2019-05-05 16:35:07", "game_channel": "netease"}, "orderid_to_epay": "35_10129", "orderid": 10129, "remain_seconds": 1799, "buyer_role": null, "status": 1, "return_money_time": null, "invalid_time": null, "price": 14888800, "status_desc": "\u5f85\u4ed8\u6b3e", "wallet_pay_type": 0, "price_desc": "\uffe5148888.00", "total_poundage": 0, "serverid": 35, "total_poundage_desc": "0.00", "price_total": 14888800, "buyer_urs": "q735165876@163.com", "orderid_from_epay": "2019051610JY21248178"}]}
+2019-05-16 10:14:36,881 INFO (PayService.java:379)- 解析数组之后 2019/05/16-10:14:36:881 
+2019-05-16 10:14:36,881 INFO (PayService.java:383)- result之后 2019/05/16-10:14:36:881 
+2019-05-16 10:14:36,881 INFO (PayService.java:854)- 解析status之前 2019/05/16-10:14:36:881
+2019-05-16 10:14:36,882 INFO (PayService.java:856)- 解析status_desc之前 2019/05/16-10:14:36:881
+2019-05-16 10:14:36,882 INFO (PayService.java:858)- 订单状态：1
+2019-05-16 10:14:36,883 INFO (PayService.java:859)- 待付款
+2019-05-16 10:14:36,883 INFO (HttpsClientUtil.java:74)- 2019/05/16-10:14:36:883https://my.cbg.163.com/cgi/api/get_order_pay_info
+2019-05-16 10:14:37,011 INFO (PayService.java:504)- 35_10129 getorderinfo 返回值 {"status": 1, "pay_info": {"epay_pay_url": "https://api.epay.163.com/mwallet/order/pay.htm?msg=eyJvcmRlcklkIjogIjIwMTkwNTE2MTBKWTIxMjQ4MTc4IiwgImNhbGxlclBsYXRmb3JtSWQiOiAiMjAxNzExMjAxNlBUNTM4NzU3NDYiLCAicGxhdGZvcm1JZCI6ICIyMDE4MDQyNTEzUFQ1NTA1MDc2NiIsICJ2ZXJzaW9uIjogIjEuMC4wIiwgInBheVN0cmF0ZWd5IjogIntcIndhbGxldFR5cGVcIjogXCJDQkdfV0FMTEVUXCIsIFwiZXBheUFtb3VudFwiOiAxNDg4ODguMCwgXCJtZXJjaGFudFdhbGxldEFtb3VudFwiOiAwLjAsIFwidXNlSW5zcGVjdEJhbGFuY2VcIjogZmFsc2UsIFwib3V0ZXJDaGFyZ2VGZWVOb3RlXCI6IHtcImFwRmVlXCI6IDAuMCwgXCJ3eEZlZVwiOiAwLjB9LCBcIm91dGVyQ2hhcmdlRmVlU3RyYXRlZ3lcIjoge1wiYXBGZWVcIjogMTYzNy43NywgXCJ3eEZlZVwiOiAxMDQyLjIyfX0iLCAiYWNjb3VudElkIjogInE3MzUxNjU4NzZAMTYzLmNvbSJ9&msgType=JSON&sign=tJkB9PkJKhjfmUBBEUPwcSUejV5KJaO2WIMyWctDApcQr5uvbdu56yp%2FVnLnv0anntC5y39sQL%2ByQRSqW3FhL%2FXYFi0vuR4IOmqW8E3%2BHtpyQ2iA3yh4BrFBEFSNJDE%2Fcgmw1r45wSsIolHPjw355ozzhJ31NAlnf7ZY6zPGjCiy7nXpGxflP3DpNAKB7k37WtglB9Q1Tzm%2B3HakXHFNKsIp8ajC1sh9gScXOtq0SadP4HYeWsDd3THFM8%2FqahcGqg5khGjshrdOc3oIsQ2ATniXekP9d%2FrUyctbmNDqVxUJL798OrUiJCMfFZrPBnNpI0EW5RrR7kOkAhfYY9zuGQ%3D%3D", "mobile_info": null, "full_pay_by_wallet": false}}
+2019-05-16 10:14:37,012 INFO (PayService.java:512)- 35_10129---------jieximsg之后 null
+2019-05-16 10:14:37,012 INFO (PayService.java:515)- 35_10129---------解析epay_pay_url之前
+2019-05-16 10:14:37,012 INFO (PayService.java:864)- 增加订单里的===============获取支付地址完成 2019/05/16-10:14:37:012 https://api.epay.163.com/mwallet/order/pay.htm?msg=eyJvcmRlcklkIjogIjIwMTkwNTE2MTBKWTIxMjQ4MTc4IiwgImNhbGxlclBsYXRmb3JtSWQiOiAiMjAxNzExMjAxNlBUNTM4NzU3NDYiLCAicGxhdGZvcm1JZCI6ICIyMDE4MDQyNTEzUFQ1NTA1MDc2NiIsICJ2ZXJzaW9uIjogIjEuMC4wIiwgInBheVN0cmF0ZWd5IjogIntcIndhbGxldFR5cGVcIjogXCJDQkdfV0FMTEVUXCIsIFwiZXBheUFtb3VudFwiOiAxNDg4ODguMCwgXCJtZXJjaGFudFdhbGxldEFtb3VudFwiOiAwLjAsIFwidXNlSW5zcGVjdEJhbGFuY2VcIjogZmFsc2UsIFwib3V0ZXJDaGFyZ2VGZWVOb3RlXCI6IHtcImFwRmVlXCI6IDAuMCwgXCJ3eEZlZVwiOiAwLjB9LCBcIm91dGVyQ2hhcmdlRmVlU3RyYXRlZ3lcIjoge1wiYXBGZWVcIjogMTYzNy43NywgXCJ3eEZlZVwiOiAxMDQyLjIyfX0iLCAiYWNjb3VudElkIjogInE3MzUxNjU4NzZAMTYzLmNvbSJ9&msgType=JSON&sign=tJkB9PkJKhjfmUBBEUPwcSUejV5KJaO2WIMyWctDApcQr5uvbdu56yp%2FVnLnv0anntC5y39sQL%2ByQRSqW3FhL%2FXYFi0vuR4IOmqW8E3%2BHtpyQ2iA3yh4BrFBEFSNJDE%2Fcgmw1r45wSsIolHPjw355ozzhJ31NAlnf7ZY6zPGjCiy7nXpGxflP3DpNAKB7k37WtglB9Q1Tzm%2B3HakXHFNKsIp8ajC1sh9gScXOtq0SadP4HYeWsDd3THFM8%2FqahcGqg5khGjshrdOc3oIsQ2ATniXekP9d%2FrUyctbmNDqVxUJL798OrUiJCMfFZrPBnNpI0EW5RrR7kOkAhfYY9zuGQ%3D%3D
+2019-05-16 10:14:37,013 INFO (DateUtil.java:698)- 2019/05/16-10:14:37:012
+2019-05-16 10:14:37,160 INFO (PayService.java:631)- 2019/05/16-10:14:37:160---------返回getPayNo方法
+2019-05-16 10:14:37,160 INFO (PayService.java:638)- 2019/05/16-10:14:37:160 真实支付地址为：https://epay.163.com/cashier/standardCashier?orderId=2019051610JY21248293
+2019-05-16 10:14:37,160 INFO (PayService.java:649)- 2019/05/16-10:14:37:160---------getPayNo方法return之前
+2019-05-16 10:14:37,160 INFO (PayService.java:867)- 增加订单里的===============访问支付地址完成 2019051610JY21248293 2019/05/16-10:14:37:160
+2019-05-16 10:14:37,160 INFO (HttpsClientUtil.java:332)- {"coupon":null,"balance":{"payAmount":"148888.00"},"orderId":"2019051610JY21248293"}
+2019-05-16 10:14:37,160 INFO (HttpsClientUtil.java:332)- {"pwEnVer":"M_A_1","payPassword":"tl%2BXHhG0Bwg2xdtMozVuOBZ2S26RiBw1Awd78zBbpe4Pa5PHxf1imBDm99GpCIE6"}
+2019-05-16 10:14:37,160 INFO (HttpsClientUtil.java:332)- [["cashier","paymode-hongbao"],["cashier","paymode-account"],["cashier","paybutton-combinpay"]]
+2019-05-16 10:14:37,160 INFO (HttpsClientUtil.java:332)- {"term":"web"}
+2019-05-16 10:14:37,160 INFO (DateUtil.java:708)- 调用之前------https://epay.163.com/cashier/ajaxPay,2019/05/16-10:14:37:160
+2019-05-16 10:14:37,447 INFO (DateUtil.java:708)- 调用之后------https://epay.163.com/cashier/ajaxPay,2019/05/16-10:14:37:447
+2019-05-16 10:14:37,447 INFO (PayService.java:765)- 2019/05/16-10:14:37:447 普通支付 2019051610JY21248293 ====================={"result":"error","errorMsg":"账户余额不足，请使用其他支付方式","errorCode":"034020","errorMap":{},"bankUrl":null,"params":null,"traceCookie":false,"data":null}
+2019-05-16 10:14:37,447 INFO (PayService.java:772)- 034020
+2019-05-16 10:14:37,448 INFO (PayService.java:776)- error
+2019-05-16 10:14:37,448 INFO (PayService.java:780)- 账户余额不足，请使用其他支付方式
+2019-05-16 10:14:37,448 INFO (HttpsClientUtil.java:74)- 2019/05/16-10:14:37:448https://my.cbg.163.com/cgi/api/cancel_order
+2019-05-16 10:14:37,528 INFO (HttpsClientUtil.java:74)- 2019/05/16-10:14:37:528https://my.cbg.163.com/cgi/api/delete_order
+2019-05-16 10:14:37,564 INFO (PayService.java:879)- 初始化结束----------------------------------------
+2019-05-16 10:15:37,567 INFO (MainThreadIp2.java:72)- 挂机初始化时间
+2019-05-16 10:15:37,569 INFO (HttpsClientUtil.java:74)- 2019/05/16-10:15:37:569https://my.cbg.163.com/cgi/api/add_order
+2019-05-16 10:15:37,874 INFO (PayService.java:267)- 2019/05/16-10:15:37:874  {"status": 1, "order": {"price_total": 14888800, "orderid_to_epay": "35_10130"}}
+2019-05-16 10:15:37,874 INFO (PayService.java:284)- 2019/05/16-10:15:37:874 下单成功,支付金额为：148888元，订单号为：35_10130
+2019-05-16 10:15:37,874 INFO (PayService.java:373)- queryOrder2019/05/16-10:15:37:874
+2019-05-16 10:15:37,874 INFO (HttpsClientUtil.java:74)- 2019/05/16-10:15:37:874https://my.cbg.163.com/cgi/api/my_orders?page=1&status=1
+2019-05-16 10:15:38,000 INFO (PayService.java:377)- 所有解析之前 2019/05/16-10:15:38:000{"status": 1, "paging": {"is_last_page": true}, "unpaid_order_num": 1, "result": [{"buyer_name": "q735165876@163.com", "subtitle": "\u68a6\u5e7b\u897f\u6e38\u624b\u6e38-\u7fa4\u661f\u7480\u74a8", "is_user_cancel": false, "buy_poundages": [], "expire_remain_seconds": 1800, "expire_time": "2019-05-16 10:45:38", "create_time": "2019-05-16 10:15:38", "equipid": 4833, "buyer_fee_list": [], "pay_time": null, "equip": {"appointed_data": null, "create_time_desc": "2019-05-05 16:35:07", "storage_type": 4, "create_time": "2019-05-05 16:35:07", "equipid": 4833, "allow_multi_order": true, "collect_num": 2, "pass_fair_show": 1, "appointed_roleid": null, "fair_show_end_time": "2019-05-06 16:35:07", "platform_type": 1, "level_desc": "113\u7ea7", "highlights": ["\u53cc\u84dd\u88c5\u5907x1", "\u6ee111\u6bb5", "\u529b\u5288\u5ba0\u7269"], "min_buy_level": null, "kindid": 1, "equip_level": 113, "icon": "/game_res/res/photo/0001.png", "area_name": "\u4e00\u533a", "desc_sumup_short": "\u603b\u8bc4\u5206:44107   \u4eba\u7269\u8bc4\u5206:25878", "status": 3, "cross_buy_serverid_list": [], "equip_type": "1", "price": 14888800, "other_info": {"school": 8, "format_equip_name": "\u5316\u751f\u5bfa", "level_desc": "113\u7ea7", "highlights": ["\u53cc\u84dd\u88c5\u5907x1", "\u6ee111\u6bb5", "\u529b\u5288\u5ba0\u7269"], "desc_sumup": "\u603b\u8bc4\u5206:44107   \u4eba\u7269\u8bc4\u5206:25878", "desc_sumup_short": "\u603b\u8bc4\u5206:44107   \u4eba\u7269\u8bc4\u5206:25878", "basic_attrs": ["\u603b\u8bc4\u5206:44107", "\u4eba\u7269\u8bc4\u5206:25878"], "icon": "/game_res/res/photo/0001.png"}, "status_desc": "\u88ab\u4e0b\u5355", "expire_remain_seconds": 368369, "expire_time": "2019-05-20 16:35:07", "serverid": 35, "first_onsale_price": 14888800, "server_name": "\u7fa4\u661f\u7480\u74a8", "allow_cross_buy": false, "game_ordersn": "201904281601716-35-FWASMJAGA88E8", "web_last_price": 14888800, "equip_count": 1, "equip_name": "\u666e\u6e21\u6148\u822a", "eid": "201905051601713-35-4HA2LIN3EJCTP", "format_equip_name": "\u5316\u751f\u5bfa", "selling_time": "2019-05-05 16:35:07", "game_channel": "netease"}, "orderid_to_epay": "35_10130", "orderid": 10130, "remain_seconds": 1800, "buyer_role": null, "status": 1, "return_money_time": null, "invalid_time": null, "price": 14888800, "status_desc": "\u5f85\u4ed8\u6b3e", "wallet_pay_type": 0, "price_desc": "\uffe5148888.00", "total_poundage": 0, "serverid": 35, "total_poundage_desc": "0.00", "price_total": 14888800, "buyer_urs": "q735165876@163.com", "orderid_from_epay": "2019051610JY21260871"}]}
+2019-05-16 10:15:38,000 INFO (PayService.java:379)- 解析数组之后 2019/05/16-10:15:38:000 
+2019-05-16 10:15:38,001 INFO (PayService.java:383)- result之后 2019/05/16-10:15:38:001 
+2019-05-16 10:15:38,001 INFO (PayService.java:854)- 解析status之前 2019/05/16-10:15:38:001
+2019-05-16 10:15:38,001 INFO (PayService.java:856)- 解析status_desc之前 2019/05/16-10:15:38:001
+2019-05-16 10:15:38,001 INFO (PayService.java:858)- 订单状态：1
+2019-05-16 10:15:38,001 INFO (PayService.java:859)- 待付款
+2019-05-16 10:15:38,001 INFO (HttpsClientUtil.java:74)- 2019/05/16-10:15:38:001https://my.cbg.163.com/cgi/api/get_order_pay_info
+2019-05-16 10:15:38,132 INFO (PayService.java:504)- 35_10130 getorderinfo 返回值 {"status": 1, "pay_info": {"epay_pay_url": "https://api.epay.163.com/mwallet/order/pay.htm?msg=eyJvcmRlcklkIjogIjIwMTkwNTE2MTBKWTIxMjYwODcxIiwgImNhbGxlclBsYXRmb3JtSWQiOiAiMjAxNzExMjAxNlBUNTM4NzU3NDYiLCAicGxhdGZvcm1JZCI6ICIyMDE4MDQyNTEzUFQ1NTA1MDc2NiIsICJ2ZXJzaW9uIjogIjEuMC4wIiwgInBheVN0cmF0ZWd5IjogIntcIndhbGxldFR5cGVcIjogXCJDQkdfV0FMTEVUXCIsIFwiZXBheUFtb3VudFwiOiAxNDg4ODguMCwgXCJtZXJjaGFudFdhbGxldEFtb3VudFwiOiAwLjAsIFwidXNlSW5zcGVjdEJhbGFuY2VcIjogZmFsc2UsIFwib3V0ZXJDaGFyZ2VGZWVOb3RlXCI6IHtcImFwRmVlXCI6IDAuMCwgXCJ3eEZlZVwiOiAwLjB9LCBcIm91dGVyQ2hhcmdlRmVlU3RyYXRlZ3lcIjoge1wiYXBGZWVcIjogMTYzNy43NywgXCJ3eEZlZVwiOiAxMDQyLjIyfX0iLCAiYWNjb3VudElkIjogInE3MzUxNjU4NzZAMTYzLmNvbSJ9&msgType=JSON&sign=YhDz3SAxfGutr5t0Ffg5fJ0OFWOuxrV4G8%2FgQHjOlbGAAZtUY6%2BzwHPSQsYi0B8mQAqurbFnEKrpNtniUf2vuFSBNpxBAOQaoMltjkmiggkFbyBSZbDb%2FamJjmws3oocnyqyodTGkMDl3PMYm1Ihmp0sKa3dz1YfAprFTcYPTTGaWsoBc4PToFHLWBLBbDMeGyDdoZN1MPRyrcdLo%2BT%2FakQdQNQHcNKZ6yZ0E%2BdkJnBpt8f0iWkTIS%2FhcqackXQBFxN%2BF5Bfudzx5MjeHr3y5ulKn9XxjLcD5wzFX796Int7ZdJLniLnVbs%2FKF18lsL59Ecytej8aMBluhWYztek1Q%3D%3D", "mobile_info": null, "full_pay_by_wallet": false}}
+2019-05-16 10:15:38,133 INFO (PayService.java:512)- 35_10130---------jieximsg之后 null
+2019-05-16 10:15:38,133 INFO (PayService.java:515)- 35_10130---------解析epay_pay_url之前
+2019-05-16 10:15:38,133 INFO (PayService.java:864)- 增加订单里的===============获取支付地址完成 2019/05/16-10:15:38:133 https://api.epay.163.com/mwallet/order/pay.htm?msg=eyJvcmRlcklkIjogIjIwMTkwNTE2MTBKWTIxMjYwODcxIiwgImNhbGxlclBsYXRmb3JtSWQiOiAiMjAxNzExMjAxNlBUNTM4NzU3NDYiLCAicGxhdGZvcm1JZCI6ICIyMDE4MDQyNTEzUFQ1NTA1MDc2NiIsICJ2ZXJzaW9uIjogIjEuMC4wIiwgInBheVN0cmF0ZWd5IjogIntcIndhbGxldFR5cGVcIjogXCJDQkdfV0FMTEVUXCIsIFwiZXBheUFtb3VudFwiOiAxNDg4ODguMCwgXCJtZXJjaGFudFdhbGxldEFtb3VudFwiOiAwLjAsIFwidXNlSW5zcGVjdEJhbGFuY2VcIjogZmFsc2UsIFwib3V0ZXJDaGFyZ2VGZWVOb3RlXCI6IHtcImFwRmVlXCI6IDAuMCwgXCJ3eEZlZVwiOiAwLjB9LCBcIm91dGVyQ2hhcmdlRmVlU3RyYXRlZ3lcIjoge1wiYXBGZWVcIjogMTYzNy43NywgXCJ3eEZlZVwiOiAxMDQyLjIyfX0iLCAiYWNjb3VudElkIjogInE3MzUxNjU4NzZAMTYzLmNvbSJ9&msgType=JSON&sign=YhDz3SAxfGutr5t0Ffg5fJ0OFWOuxrV4G8%2FgQHjOlbGAAZtUY6%2BzwHPSQsYi0B8mQAqurbFnEKrpNtniUf2vuFSBNpxBAOQaoMltjkmiggkFbyBSZbDb%2FamJjmws3oocnyqyodTGkMDl3PMYm1Ihmp0sKa3dz1YfAprFTcYPTTGaWsoBc4PToFHLWBLBbDMeGyDdoZN1MPRyrcdLo%2BT%2FakQdQNQHcNKZ6yZ0E%2BdkJnBpt8f0iWkTIS%2FhcqackXQBFxN%2BF5Bfudzx5MjeHr3y5ulKn9XxjLcD5wzFX796Int7ZdJLniLnVbs%2FKF18lsL59Ecytej8aMBluhWYztek1Q%3D%3D
+2019-05-16 10:15:38,133 INFO (DateUtil.java:698)- 2019/05/16-10:15:38:133
+2019-05-16 10:15:38,280 INFO (PayService.java:631)- 2019/05/16-10:15:38:280---------返回getPayNo方法
+2019-05-16 10:15:38,281 INFO (PayService.java:638)- 2019/05/16-10:15:38:281 真实支付地址为：https://epay.163.com/cashier/standardCashier?orderId=2019051610JY21261030
+2019-05-16 10:15:38,281 INFO (PayService.java:649)- 2019/05/16-10:15:38:281---------getPayNo方法return之前
+2019-05-16 10:15:38,281 INFO (PayService.java:867)- 增加订单里的===============访问支付地址完成 2019051610JY21261030 2019/05/16-10:15:38:281
+2019-05-16 10:15:38,281 INFO (HttpsClientUtil.java:332)- {"coupon":null,"balance":{"payAmount":"148888.00"},"orderId":"2019051610JY21261030"}
+2019-05-16 10:15:38,282 INFO (HttpsClientUtil.java:332)- {"pwEnVer":"M_A_1","payPassword":"tl%2BXHhG0Bwg2xdtMozVuOBZ2S26RiBw1Awd78zBbpe4Pa5PHxf1imBDm99GpCIE6"}
+2019-05-16 10:15:38,282 INFO (HttpsClientUtil.java:332)- [["cashier","paymode-hongbao"],["cashier","paymode-account"],["cashier","paybutton-combinpay"]]
+2019-05-16 10:15:38,282 INFO (HttpsClientUtil.java:332)- {"term":"web"}
+2019-05-16 10:15:38,283 INFO (DateUtil.java:708)- 调用之前------https://epay.163.com/cashier/ajaxPay,2019/05/16-10:15:38:283
+2019-05-16 10:15:38,501 INFO (DateUtil.java:708)- 调用之后------https://epay.163.com/cashier/ajaxPay,2019/05/16-10:15:38:501
+2019-05-16 10:15:38,502 INFO (PayService.java:765)- 2019/05/16-10:15:38:502 普通支付 2019051610JY21261030 ====================={"result":"error","errorMsg":"账户余额不足，请使用其他支付方式","errorCode":"034020","errorMap":{},"bankUrl":null,"params":null,"traceCookie":false,"data":null}
+2019-05-16 10:15:38,502 INFO (PayService.java:772)- 034020
+2019-05-16 10:15:38,502 INFO (PayService.java:776)- error
+2019-05-16 10:15:38,502 INFO (PayService.java:780)- 账户余额不足，请使用其他支付方式
+2019-05-16 10:15:38,502 INFO (HttpsClientUtil.java:74)- 2019/05/16-10:15:38:502https://my.cbg.163.com/cgi/api/cancel_order
+2019-05-16 10:15:38,649 INFO (HttpsClientUtil.java:74)- 2019/05/16-10:15:38:649https://my.cbg.163.com/cgi/api/delete_order
+2019-05-16 10:15:38,776 INFO (PayService.java:879)- 初始化结束----------------------------------------
+2019-05-16 10:16:38,780 INFO (MainThreadIp2.java:72)- 挂机初始化时间
+2019-05-16 10:16:38,780 INFO (HttpsClientUtil.java:74)- 2019/05/16-10:16:38:780https://my.cbg.163.com/cgi/api/add_order
+2019-05-16 10:16:39,014 INFO (PayService.java:267)- 2019/05/16-10:16:39:014  {"status": 1, "order": {"price_total": 14888800, "orderid_to_epay": "35_10131"}}
+2019-05-16 10:16:39,014 INFO (PayService.java:284)- 2019/05/16-10:16:39:014 下单成功,支付金额为：148888元，订单号为：35_10131
+2019-05-16 10:16:39,014 INFO (PayService.java:373)- queryOrder2019/05/16-10:16:39:014
+2019-05-16 10:16:39,015 INFO (HttpsClientUtil.java:74)- 2019/05/16-10:16:39:015https://my.cbg.163.com/cgi/api/my_orders?page=1&status=1
+2019-05-16 10:16:39,066 INFO (PayService.java:377)- 所有解析之前 2019/05/16-10:16:39:066{"status": 1, "paging": {"is_last_page": true}, "unpaid_order_num": 1, "result": [{"buyer_name": "q735165876@163.com", "subtitle": "\u68a6\u5e7b\u897f\u6e38\u624b\u6e38-\u7fa4\u661f\u7480\u74a8", "is_user_cancel": false, "buy_poundages": [], "expire_remain_seconds": 1800, "expire_time": "2019-05-16 10:46:39", "create_time": "2019-05-16 10:16:39", "equipid": 4833, "buyer_fee_list": [], "pay_time": null, "equip": {"appointed_data": null, "create_time_desc": "2019-05-05 16:35:07", "storage_type": 4, "create_time": "2019-05-05 16:35:07", "equipid": 4833, "allow_multi_order": true, "collect_num": 2, "pass_fair_show": 1, "appointed_roleid": null, "fair_show_end_time": "2019-05-06 16:35:07", "platform_type": 1, "level_desc": "113\u7ea7", "highlights": ["\u53cc\u84dd\u88c5\u5907x1", "\u6ee111\u6bb5", "\u529b\u5288\u5ba0\u7269"], "min_buy_level": null, "kindid": 1, "equip_level": 113, "icon": "/game_res/res/photo/0001.png", "area_name": "\u4e00\u533a", "desc_sumup_short": "\u603b\u8bc4\u5206:44107   \u4eba\u7269\u8bc4\u5206:25878", "status": 3, "cross_buy_serverid_list": [], "equip_type": "1", "price": 14888800, "other_info": {"school": 8, "format_equip_name": "\u5316\u751f\u5bfa", "level_desc": "113\u7ea7", "highlights": ["\u53cc\u84dd\u88c5\u5907x1", "\u6ee111\u6bb5", "\u529b\u5288\u5ba0\u7269"], "desc_sumup": "\u603b\u8bc4\u5206:44107   \u4eba\u7269\u8bc4\u5206:25878", "desc_sumup_short": "\u603b\u8bc4\u5206:44107   \u4eba\u7269\u8bc4\u5206:25878", "basic_attrs": ["\u603b\u8bc4\u5206:44107", "\u4eba\u7269\u8bc4\u5206:25878"], "icon": "/game_res/res/photo/0001.png"}, "status_desc": "\u88ab\u4e0b\u5355", "expire_remain_seconds": 368308, "expire_time": "2019-05-20 16:35:07", "serverid": 35, "first_onsale_price": 14888800, "server_name": "\u7fa4\u661f\u7480\u74a8", "allow_cross_buy": false, "game_ordersn": "201904281601716-35-FWASMJAGA88E8", "web_last_price": 14888800, "equip_count": 1, "equip_name": "\u666e\u6e21\u6148\u822a", "eid": "201905051601713-35-4HA2LIN3EJCTP", "format_equip_name": "\u5316\u751f\u5bfa", "selling_time": "2019-05-05 16:35:07", "game_channel": "netease"}, "orderid_to_epay": "35_10131", "orderid": 10131, "remain_seconds": 1800, "buyer_role": null, "status": 1, "return_money_time": null, "invalid_time": null, "price": 14888800, "status_desc": "\u5f85\u4ed8\u6b3e", "wallet_pay_type": 0, "price_desc": "\uffe5148888.00", "total_poundage": 0, "serverid": 35, "total_poundage_desc": "0.00", "price_total": 14888800, "buyer_urs": "q735165876@163.com", "orderid_from_epay": "2019051610JY21272962"}]}
+2019-05-16 10:16:39,066 INFO (PayService.java:379)- 解析数组之后 2019/05/16-10:16:39:066 
+2019-05-16 10:16:39,067 INFO (PayService.java:383)- result之后 2019/05/16-10:16:39:067 
+2019-05-16 10:16:39,067 INFO (PayService.java:854)- 解析status之前 2019/05/16-10:16:39:067
+2019-05-16 10:16:39,067 INFO (PayService.java:856)- 解析status_desc之前 2019/05/16-10:16:39:067
+2019-05-16 10:16:39,067 INFO (PayService.java:858)- 订单状态：1
+2019-05-16 10:16:39,067 INFO (PayService.java:859)- 待付款
+2019-05-16 10:16:39,067 INFO (HttpsClientUtil.java:74)- 2019/05/16-10:16:39:067https://my.cbg.163.com/cgi/api/get_order_pay_info
+2019-05-16 10:16:39,135 INFO (PayService.java:504)- 35_10131 getorderinfo 返回值 {"status": 1, "pay_info": {"epay_pay_url": "https://api.epay.163.com/mwallet/order/pay.htm?msg=eyJvcmRlcklkIjogIjIwMTkwNTE2MTBKWTIxMjcyOTYyIiwgImNhbGxlclBsYXRmb3JtSWQiOiAiMjAxNzExMjAxNlBUNTM4NzU3NDYiLCAicGxhdGZvcm1JZCI6ICIyMDE4MDQyNTEzUFQ1NTA1MDc2NiIsICJ2ZXJzaW9uIjogIjEuMC4wIiwgInBheVN0cmF0ZWd5IjogIntcIndhbGxldFR5cGVcIjogXCJDQkdfV0FMTEVUXCIsIFwiZXBheUFtb3VudFwiOiAxNDg4ODguMCwgXCJtZXJjaGFudFdhbGxldEFtb3VudFwiOiAwLjAsIFwidXNlSW5zcGVjdEJhbGFuY2VcIjogZmFsc2UsIFwib3V0ZXJDaGFyZ2VGZWVOb3RlXCI6IHtcImFwRmVlXCI6IDAuMCwgXCJ3eEZlZVwiOiAwLjB9LCBcIm91dGVyQ2hhcmdlRmVlU3RyYXRlZ3lcIjoge1wiYXBGZWVcIjogMTYzNy43NywgXCJ3eEZlZVwiOiAxMDQyLjIyfX0iLCAiYWNjb3VudElkIjogInE3MzUxNjU4NzZAMTYzLmNvbSJ9&msgType=JSON&sign=dtOn7wEWF8R6%2BPjTIPUOEekpK5nuMwoyVgnCvAPcNCkcPxMA9tws6%2F4uWXXI32HSzbhnYONVWW9Xx%2FVhsXf0Isf4Zd3AIqhAVn66lFHp3kUIzzqydINwjWMzOsw72JjNIBWu8gfEl1MMiVlX00UDLdmaW24Ew7V4lEkFQ84JHxnIbAWIC4pmRk8mzGlBh%2F1YpWcHWCN5Sf7rw7SstBkGXutxZ6pQtC5wcRV7VJTW6fT03nOPgM2LsY0C8zxtn06lCUmmIfxGU8EL6ggc0p6sTe219H3xPzehj1jXAhhhZ1k0KEuiINTWkkFWuahjA0wZ32gv7cLL3rpYDjDC9pybuQ%3D%3D", "mobile_info": null, "full_pay_by_wallet": false}}
+2019-05-16 10:16:39,135 INFO (PayService.java:512)- 35_10131---------jieximsg之后 null
+2019-05-16 10:16:39,135 INFO (PayService.java:515)- 35_10131---------解析epay_pay_url之前
+2019-05-16 10:16:39,135 INFO (PayService.java:864)- 增加订单里的===============获取支付地址完成 2019/05/16-10:16:39:135 https://api.epay.163.com/mwallet/order/pay.htm?msg=eyJvcmRlcklkIjogIjIwMTkwNTE2MTBKWTIxMjcyOTYyIiwgImNhbGxlclBsYXRmb3JtSWQiOiAiMjAxNzExMjAxNlBUNTM4NzU3NDYiLCAicGxhdGZvcm1JZCI6ICIyMDE4MDQyNTEzUFQ1NTA1MDc2NiIsICJ2ZXJzaW9uIjogIjEuMC4wIiwgInBheVN0cmF0ZWd5IjogIntcIndhbGxldFR5cGVcIjogXCJDQkdfV0FMTEVUXCIsIFwiZXBheUFtb3VudFwiOiAxNDg4ODguMCwgXCJtZXJjaGFudFdhbGxldEFtb3VudFwiOiAwLjAsIFwidXNlSW5zcGVjdEJhbGFuY2VcIjogZmFsc2UsIFwib3V0ZXJDaGFyZ2VGZWVOb3RlXCI6IHtcImFwRmVlXCI6IDAuMCwgXCJ3eEZlZVwiOiAwLjB9LCBcIm91dGVyQ2hhcmdlRmVlU3RyYXRlZ3lcIjoge1wiYXBGZWVcIjogMTYzNy43NywgXCJ3eEZlZVwiOiAxMDQyLjIyfX0iLCAiYWNjb3VudElkIjogInE3MzUxNjU4NzZAMTYzLmNvbSJ9&msgType=JSON&sign=dtOn7wEWF8R6%2BPjTIPUOEekpK5nuMwoyVgnCvAPcNCkcPxMA9tws6%2F4uWXXI32HSzbhnYONVWW9Xx%2FVhsXf0Isf4Zd3AIqhAVn66lFHp3kUIzzqydINwjWMzOsw72JjNIBWu8gfEl1MMiVlX00UDLdmaW24Ew7V4lEkFQ84JHxnIbAWIC4pmRk8mzGlBh%2F1YpWcHWCN5Sf7rw7SstBkGXutxZ6pQtC5wcRV7VJTW6fT03nOPgM2LsY0C8zxtn06lCUmmIfxGU8EL6ggc0p6sTe219H3xPzehj1jXAhhhZ1k0KEuiINTWkkFWuahjA0wZ32gv7cLL3rpYDjDC9pybuQ%3D%3D
+2019-05-16 10:16:39,136 INFO (DateUtil.java:698)- 2019/05/16-10:16:39:136
+2019-05-16 10:16:39,345 INFO (PayService.java:631)- 2019/05/16-10:16:39:345---------返回getPayNo方法
+2019-05-16 10:16:39,345 INFO (PayService.java:638)- 2019/05/16-10:16:39:345 真实支付地址为：https://epay.163.com/cashier/standardCashier?orderId=2019051610JY21272998
+2019-05-16 10:16:39,345 INFO (PayService.java:649)- 2019/05/16-10:16:39:345---------getPayNo方法return之前
+2019-05-16 10:16:39,345 INFO (PayService.java:867)- 增加订单里的===============访问支付地址完成 2019051610JY21272998 2019/05/16-10:16:39:345
+2019-05-16 10:16:39,345 INFO (HttpsClientUtil.java:332)- {"coupon":null,"balance":{"payAmount":"148888.00"},"orderId":"2019051610JY21272998"}
+2019-05-16 10:16:39,345 INFO (HttpsClientUtil.java:332)- {"pwEnVer":"M_A_1","payPassword":"tl%2BXHhG0Bwg2xdtMozVuOBZ2S26RiBw1Awd78zBbpe4Pa5PHxf1imBDm99GpCIE6"}
+2019-05-16 10:16:39,345 INFO (HttpsClientUtil.java:332)- [["cashier","paymode-hongbao"],["cashier","paymode-account"],["cashier","paybutton-combinpay"]]
+2019-05-16 10:16:39,346 INFO (HttpsClientUtil.java:332)- {"term":"web"}
+2019-05-16 10:16:39,346 INFO (DateUtil.java:708)- 调用之前------https://epay.163.com/cashier/ajaxPay,2019/05/16-10:16:39:346
+2019-05-16 10:16:39,605 INFO (DateUtil.java:708)- 调用之后------https://epay.163.com/cashier/ajaxPay,2019/05/16-10:16:39:605
+2019-05-16 10:16:39,605 INFO (PayService.java:765)- 2019/05/16-10:16:39:605 普通支付 2019051610JY21272998 ====================={"result":"error","errorMsg":"账户余额不足，请使用其他支付方式","errorCode":"034020","errorMap":{},"bankUrl":null,"params":null,"traceCookie":false,"data":null}
+2019-05-16 10:16:39,605 INFO (PayService.java:772)- 034020
+2019-05-16 10:16:39,605 INFO (PayService.java:776)- error
+2019-05-16 10:16:39,605 INFO (PayService.java:780)- 账户余额不足，请使用其他支付方式
+2019-05-16 10:16:39,606 INFO (HttpsClientUtil.java:74)- 2019/05/16-10:16:39:606https://my.cbg.163.com/cgi/api/cancel_order
+2019-05-16 10:16:39,684 INFO (HttpsClientUtil.java:74)- 2019/05/16-10:16:39:683https://my.cbg.163.com/cgi/api/delete_order
+2019-05-16 10:16:39,796 INFO (PayService.java:879)- 初始化结束----------------------------------------
+2019-05-16 10:17:39,799 INFO (MainThreadIp2.java:72)- 挂机初始化时间
+2019-05-16 10:17:39,799 INFO (HttpsClientUtil.java:74)- 2019/05/16-10:17:39:799https://my.cbg.163.com/cgi/api/add_order
+2019-05-16 10:17:40,145 INFO (PayService.java:267)- 2019/05/16-10:17:40:145  {"status": 1, "order": {"price_total": 14888800, "orderid_to_epay": "35_10132"}}
+2019-05-16 10:17:40,145 INFO (PayService.java:284)- 2019/05/16-10:17:40:145 下单成功,支付金额为：148888元，订单号为：35_10132
+2019-05-16 10:17:40,145 INFO (PayService.java:373)- queryOrder2019/05/16-10:17:40:145
+2019-05-16 10:17:40,145 INFO (HttpsClientUtil.java:74)- 2019/05/16-10:17:40:145https://my.cbg.163.com/cgi/api/my_orders?page=1&status=1
+2019-05-16 10:17:40,268 INFO (PayService.java:377)- 所有解析之前 2019/05/16-10:17:40:268{"status": 1, "paging": {"is_last_page": true}, "unpaid_order_num": 1, "result": [{"buyer_name": "q735165876@163.com", "subtitle": "\u68a6\u5e7b\u897f\u6e38\u624b\u6e38-\u7fa4\u661f\u7480\u74a8", "is_user_cancel": false, "buy_poundages": [], "expire_remain_seconds": 1799, "expire_time": "2019-05-16 10:47:40", "create_time": "2019-05-16 10:17:40", "equipid": 4833, "buyer_fee_list": [], "pay_time": null, "equip": {"appointed_data": null, "create_time_desc": "2019-05-05 16:35:07", "storage_type": 4, "create_time": "2019-05-05 16:35:07", "equipid": 4833, "allow_multi_order": true, "collect_num": 2, "pass_fair_show": 1, "appointed_roleid": null, "fair_show_end_time": "2019-05-06 16:35:07", "platform_type": 1, "level_desc": "113\u7ea7", "highlights": ["\u53cc\u84dd\u88c5\u5907x1", "\u6ee111\u6bb5", "\u529b\u5288\u5ba0\u7269"], "min_buy_level": null, "kindid": 1, "equip_level": 113, "icon": "/game_res/res/photo/0001.png", "area_name": "\u4e00\u533a", "desc_sumup_short": "\u603b\u8bc4\u5206:44107   \u4eba\u7269\u8bc4\u5206:25878", "status": 3, "cross_buy_serverid_list": [], "equip_type": "1", "price": 14888800, "other_info": {"school": 8, "format_equip_name": "\u5316\u751f\u5bfa", "level_desc": "113\u7ea7", "highlights": ["\u53cc\u84dd\u88c5\u5907x1", "\u6ee111\u6bb5", "\u529b\u5288\u5ba0\u7269"], "desc_sumup": "\u603b\u8bc4\u5206:44107   \u4eba\u7269\u8bc4\u5206:25878", "desc_sumup_short": "\u603b\u8bc4\u5206:44107   \u4eba\u7269\u8bc4\u5206:25878", "basic_attrs": ["\u603b\u8bc4\u5206:44107", "\u4eba\u7269\u8bc4\u5206:25878"], "icon": "/game_res/res/photo/0001.png"}, "status_desc": "\u88ab\u4e0b\u5355", "expire_remain_seconds": 368246, "expire_time": "2019-05-20 16:35:07", "serverid": 35, "first_onsale_price": 14888800, "server_name": "\u7fa4\u661f\u7480\u74a8", "allow_cross_buy": false, "game_ordersn": "201904281601716-35-FWASMJAGA88E8", "web_last_price": 14888800, "equip_count": 1, "equip_name": "\u666e\u6e21\u6148\u822a", "eid": "201905051601713-35-4HA2LIN3EJCTP", "format_equip_name": "\u5316\u751f\u5bfa", "selling_time": "2019-05-05 16:35:07", "game_channel": "netease"}, "orderid_to_epay": "35_10132", "orderid": 10132, "remain_seconds": 1799, "buyer_role": null, "status": 1, "return_money_time": null, "invalid_time": null, "price": 14888800, "status_desc": "\u5f85\u4ed8\u6b3e", "wallet_pay_type": 0, "price_desc": "\uffe5148888.00", "total_poundage": 0, "serverid": 35, "total_poundage_desc": "0.00", "price_total": 14888800, "buyer_urs": "q735165876@163.com", "orderid_from_epay": "2019051610JY21283881"}]}
+2019-05-16 10:17:40,268 INFO (PayService.java:379)- 解析数组之后 2019/05/16-10:17:40:268 
+2019-05-16 10:17:40,269 INFO (PayService.java:383)- result之后 2019/05/16-10:17:40:269 
+2019-05-16 10:17:40,269 INFO (PayService.java:854)- 解析status之前 2019/05/16-10:17:40:269
+2019-05-16 10:17:40,269 INFO (PayService.java:856)- 解析status_desc之前 2019/05/16-10:17:40:269
+2019-05-16 10:17:40,269 INFO (PayService.java:858)- 订单状态：1
+2019-05-16 10:17:40,269 INFO (PayService.java:859)- 待付款
+2019-05-16 10:17:40,269 INFO (HttpsClientUtil.java:74)- 2019/05/16-10:17:40:269https://my.cbg.163.com/cgi/api/get_order_pay_info
+2019-05-16 10:17:40,395 INFO (PayService.java:504)- 35_10132 getorderinfo 返回值 {"status": 1, "pay_info": {"epay_pay_url": "https://api.epay.163.com/mwallet/order/pay.htm?msg=eyJvcmRlcklkIjogIjIwMTkwNTE2MTBKWTIxMjgzODgxIiwgImNhbGxlclBsYXRmb3JtSWQiOiAiMjAxNzExMjAxNlBUNTM4NzU3NDYiLCAicGxhdGZvcm1JZCI6ICIyMDE4MDQyNTEzUFQ1NTA1MDc2NiIsICJ2ZXJzaW9uIjogIjEuMC4wIiwgInBheVN0cmF0ZWd5IjogIntcIndhbGxldFR5cGVcIjogXCJDQkdfV0FMTEVUXCIsIFwiZXBheUFtb3VudFwiOiAxNDg4ODguMCwgXCJtZXJjaGFudFdhbGxldEFtb3VudFwiOiAwLjAsIFwidXNlSW5zcGVjdEJhbGFuY2VcIjogZmFsc2UsIFwib3V0ZXJDaGFyZ2VGZWVOb3RlXCI6IHtcImFwRmVlXCI6IDAuMCwgXCJ3eEZlZVwiOiAwLjB9LCBcIm91dGVyQ2hhcmdlRmVlU3RyYXRlZ3lcIjoge1wiYXBGZWVcIjogMTYzNy43NywgXCJ3eEZlZVwiOiAxMDQyLjIyfX0iLCAiYWNjb3VudElkIjogInE3MzUxNjU4NzZAMTYzLmNvbSJ9&msgType=JSON&sign=oDdDOx90HEAmzM3BQMkXFGT51q7neEOseoPmDI4rmWLAbTZ5OtM%2Fqx7beFA%2Boju2oSGWcHuEjG11iqECTB3goCXOC92NXABCbMOrNed3Almq4ta93u%2BllmSdX2kQg2%2BsbDNOU4VDZtt4V5yZ2X4B2FVC7tPwJCdLaiG54EC9dJWSmB2YmLjOVbSVD1i5lgK3fhTPOL3t7XNLzBvsL5IrpZpGkRzn0ZJH92GcVKxtrIpK2M08C6gmVqzqOYlpNAqh5h8mOkKDqz0W1jA1iwlVXD1YxCyN58EltVWf1N%2Fcd5NWBq5LTbM9FVnAQdE3GTVwmNLRb1qJE0COGqGcrtTiFw%3D%3D", "mobile_info": null, "full_pay_by_wallet": false}}
+2019-05-16 10:17:40,395 INFO (PayService.java:512)- 35_10132---------jieximsg之后 null
+2019-05-16 10:17:40,395 INFO (PayService.java:515)- 35_10132---------解析epay_pay_url之前
+2019-05-16 10:17:40,395 INFO (PayService.java:864)- 增加订单里的===============获取支付地址完成 2019/05/16-10:17:40:395 https://api.epay.163.com/mwallet/order/pay.htm?msg=eyJvcmRlcklkIjogIjIwMTkwNTE2MTBKWTIxMjgzODgxIiwgImNhbGxlclBsYXRmb3JtSWQiOiAiMjAxNzExMjAxNlBUNTM4NzU3NDYiLCAicGxhdGZvcm1JZCI6ICIyMDE4MDQyNTEzUFQ1NTA1MDc2NiIsICJ2ZXJzaW9uIjogIjEuMC4wIiwgInBheVN0cmF0ZWd5IjogIntcIndhbGxldFR5cGVcIjogXCJDQkdfV0FMTEVUXCIsIFwiZXBheUFtb3VudFwiOiAxNDg4ODguMCwgXCJtZXJjaGFudFdhbGxldEFtb3VudFwiOiAwLjAsIFwidXNlSW5zcGVjdEJhbGFuY2VcIjogZmFsc2UsIFwib3V0ZXJDaGFyZ2VGZWVOb3RlXCI6IHtcImFwRmVlXCI6IDAuMCwgXCJ3eEZlZVwiOiAwLjB9LCBcIm91dGVyQ2hhcmdlRmVlU3RyYXRlZ3lcIjoge1wiYXBGZWVcIjogMTYzNy43NywgXCJ3eEZlZVwiOiAxMDQyLjIyfX0iLCAiYWNjb3VudElkIjogInE3MzUxNjU4NzZAMTYzLmNvbSJ9&msgType=JSON&sign=oDdDOx90HEAmzM3BQMkXFGT51q7neEOseoPmDI4rmWLAbTZ5OtM%2Fqx7beFA%2Boju2oSGWcHuEjG11iqECTB3goCXOC92NXABCbMOrNed3Almq4ta93u%2BllmSdX2kQg2%2BsbDNOU4VDZtt4V5yZ2X4B2FVC7tPwJCdLaiG54EC9dJWSmB2YmLjOVbSVD1i5lgK3fhTPOL3t7XNLzBvsL5IrpZpGkRzn0ZJH92GcVKxtrIpK2M08C6gmVqzqOYlpNAqh5h8mOkKDqz0W1jA1iwlVXD1YxCyN58EltVWf1N%2Fcd5NWBq5LTbM9FVnAQdE3GTVwmNLRb1qJE0COGqGcrtTiFw%3D%3D
+2019-05-16 10:17:40,396 INFO (DateUtil.java:698)- 2019/05/16-10:17:40:396
+2019-05-16 10:17:40,587 INFO (PayService.java:631)- 2019/05/16-10:17:40:587---------返回getPayNo方法
+2019-05-16 10:17:40,587 INFO (PayService.java:638)- 2019/05/16-10:17:40:587 真实支付地址为：https://epay.163.com/cashier/standardCashier?orderId=2019051610JY21283978
+2019-05-16 10:17:40,588 INFO (PayService.java:649)- 2019/05/16-10:17:40:588---------getPayNo方法return之前
+2019-05-16 10:17:40,588 INFO (PayService.java:867)- 增加订单里的===============访问支付地址完成 2019051610JY21283978 2019/05/16-10:17:40:588
+2019-05-16 10:17:40,588 INFO (HttpsClientUtil.java:332)- {"coupon":null,"balance":{"payAmount":"148888.00"},"orderId":"2019051610JY21283978"}
+2019-05-16 10:17:40,588 INFO (HttpsClientUtil.java:332)- {"pwEnVer":"M_A_1","payPassword":"tl%2BXHhG0Bwg2xdtMozVuOBZ2S26RiBw1Awd78zBbpe4Pa5PHxf1imBDm99GpCIE6"}
+2019-05-16 10:17:40,588 INFO (HttpsClientUtil.java:332)- [["cashier","paymode-hongbao"],["cashier","paymode-account"],["cashier","paybutton-combinpay"]]
+2019-05-16 10:17:40,588 INFO (HttpsClientUtil.java:332)- {"term":"web"}
+2019-05-16 10:17:40,588 INFO (DateUtil.java:708)- 调用之前------https://epay.163.com/cashier/ajaxPay,2019/05/16-10:17:40:588
+2019-05-16 10:17:40,853 INFO (DateUtil.java:708)- 调用之后------https://epay.163.com/cashier/ajaxPay,2019/05/16-10:17:40:853
+2019-05-16 10:17:40,853 INFO (PayService.java:765)- 2019/05/16-10:17:40:853 普通支付 2019051610JY21283978 ====================={"result":"error","errorMsg":"账户余额不足，请使用其他支付方式","errorCode":"034020","errorMap":{},"bankUrl":null,"params":null,"traceCookie":false,"data":null}
+2019-05-16 10:17:40,853 INFO (PayService.java:772)- 034020
+2019-05-16 10:17:40,853 INFO (PayService.java:776)- error
+2019-05-16 10:17:40,853 INFO (PayService.java:780)- 账户余额不足，请使用其他支付方式
+2019-05-16 10:17:40,853 INFO (HttpsClientUtil.java:74)- 2019/05/16-10:17:40:853https://my.cbg.163.com/cgi/api/cancel_order
+2019-05-16 10:17:40,988 INFO (HttpsClientUtil.java:74)- 2019/05/16-10:17:40:988https://my.cbg.163.com/cgi/api/delete_order
+2019-05-16 10:17:41,078 INFO (PayService.java:879)- 初始化结束----------------------------------------
+2019-05-16 10:19:27,000 INFO (HttpsClientUtil.java:74)- 2019/05/16-10:19:27:000https://my.cbg.163.com/cgi/api/add_order
+2019-05-16 10:19:27,397 INFO (PayService.java:267)- 2019/05/16-10:19:27:397  {"status": 1, "order": {"price_total": 14888800, "orderid_to_epay": "35_10133"}}
+2019-05-16 10:19:27,397 INFO (PayService.java:284)- 2019/05/16-10:19:27:397 下单成功,支付金额为：148888元，订单号为：35_10133
+2019-05-16 10:19:27,397 INFO (HttpsClientUtil.java:74)- 2019/05/16-10:19:27:397https://my.cbg.163.com/cgi/api/get_order_pay_info
+2019-05-16 10:19:27,520 INFO (PayService.java:504)- 35_10133 getorderinfo 返回值 {"status": 1, "pay_info": {"epay_pay_url": "https://api.epay.163.com/mwallet/order/pay.htm?msg=eyJvcmRlcklkIjogIjIwMTkwNTE2MTBKWTIxMzAyMjQyIiwgImNhbGxlclBsYXRmb3JtSWQiOiAiMjAxNzExMjAxNlBUNTM4NzU3NDYiLCAicGxhdGZvcm1JZCI6ICIyMDE4MDQyNTEzUFQ1NTA1MDc2NiIsICJ2ZXJzaW9uIjogIjEuMC4wIiwgInBheVN0cmF0ZWd5IjogIntcIndhbGxldFR5cGVcIjogXCJDQkdfV0FMTEVUXCIsIFwiZXBheUFtb3VudFwiOiAxNDg4ODguMCwgXCJtZXJjaGFudFdhbGxldEFtb3VudFwiOiAwLjAsIFwidXNlSW5zcGVjdEJhbGFuY2VcIjogZmFsc2UsIFwib3V0ZXJDaGFyZ2VGZWVOb3RlXCI6IHtcImFwRmVlXCI6IDAuMCwgXCJ3eEZlZVwiOiAwLjB9LCBcIm91dGVyQ2hhcmdlRmVlU3RyYXRlZ3lcIjoge1wiYXBGZWVcIjogMTYzNy43NywgXCJ3eEZlZVwiOiAxMDQyLjIyfX0iLCAiYWNjb3VudElkIjogInE3MzUxNjU4NzZAMTYzLmNvbSJ9&msgType=JSON&sign=VFNN2%2FKfnAgNv9puZPhuDlKNfitguynPoSpyJyS3AMHGy1qo52gakWNjwApcmeWquF%2FXlXqH7HEzikmFtquVnL4G47BAKlAhp2ynB24zi9LkNrMGSxf0OIrwtmkwHwPt6nMz%2B02jfBvRfxZ%2FBk0gxLvM4LL5rmcqM39ESR7gYFL8ru89FMlWwu%2BVT%2BGoFPV%2FuXSA4rfbzlz5c3ahgTejIQri0PJJEMKKZqbWd7Q9QXU6JR9JVCXzviDLY%2B6dRcUPoP4aNRO%2BewMTydSescED55AOpzxz4HPjvIF%2BuG2WT%2FkF3tz%2FOz7BQrlp1gKEuU3voBK4kvW2oidBszLDb3xZlg%3D%3D", "mobile_info": null, "full_pay_by_wallet": false}}
+2019-05-16 10:19:27,520 INFO (PayService.java:512)- 35_10133---------jieximsg之后 null
+2019-05-16 10:19:27,520 INFO (PayService.java:515)- 35_10133---------解析epay_pay_url之前
+2019-05-16 10:19:27,520 INFO (PayService.java:898)- 增加订单里的===============获取支付地址完成 2019/05/16-10:19:27:520 https://api.epay.163.com/mwallet/order/pay.htm?msg=eyJvcmRlcklkIjogIjIwMTkwNTE2MTBKWTIxMzAyMjQyIiwgImNhbGxlclBsYXRmb3JtSWQiOiAiMjAxNzExMjAxNlBUNTM4NzU3NDYiLCAicGxhdGZvcm1JZCI6ICIyMDE4MDQyNTEzUFQ1NTA1MDc2NiIsICJ2ZXJzaW9uIjogIjEuMC4wIiwgInBheVN0cmF0ZWd5IjogIntcIndhbGxldFR5cGVcIjogXCJDQkdfV0FMTEVUXCIsIFwiZXBheUFtb3VudFwiOiAxNDg4ODguMCwgXCJtZXJjaGFudFdhbGxldEFtb3VudFwiOiAwLjAsIFwidXNlSW5zcGVjdEJhbGFuY2VcIjogZmFsc2UsIFwib3V0ZXJDaGFyZ2VGZWVOb3RlXCI6IHtcImFwRmVlXCI6IDAuMCwgXCJ3eEZlZVwiOiAwLjB9LCBcIm91dGVyQ2hhcmdlRmVlU3RyYXRlZ3lcIjoge1wiYXBGZWVcIjogMTYzNy43NywgXCJ3eEZlZVwiOiAxMDQyLjIyfX0iLCAiYWNjb3VudElkIjogInE3MzUxNjU4NzZAMTYzLmNvbSJ9&msgType=JSON&sign=VFNN2%2FKfnAgNv9puZPhuDlKNfitguynPoSpyJyS3AMHGy1qo52gakWNjwApcmeWquF%2FXlXqH7HEzikmFtquVnL4G47BAKlAhp2ynB24zi9LkNrMGSxf0OIrwtmkwHwPt6nMz%2B02jfBvRfxZ%2FBk0gxLvM4LL5rmcqM39ESR7gYFL8ru89FMlWwu%2BVT%2BGoFPV%2FuXSA4rfbzlz5c3ahgTejIQri0PJJEMKKZqbWd7Q9QXU6JR9JVCXzviDLY%2B6dRcUPoP4aNRO%2BewMTydSescED55AOpzxz4HPjvIF%2BuG2WT%2FkF3tz%2FOz7BQrlp1gKEuU3voBK4kvW2oidBszLDb3xZlg%3D%3D
+2019-05-16 10:19:27,521 INFO (DateUtil.java:698)- 2019/05/16-10:19:27:521
+2019-05-16 10:19:27,629 INFO (PayService.java:631)- 2019/05/16-10:19:27:629---------返回getPayNo方法
+2019-05-16 10:19:27,630 INFO (PayService.java:638)- 2019/05/16-10:19:27:630 真实支付地址为：https://epay.163.com/cashier/standardCashier?orderId=2019051610JY21302292
+2019-05-16 10:19:27,631 INFO (PayService.java:649)- 2019/05/16-10:19:27:631---------getPayNo方法return之前
+2019-05-16 10:19:27,631 INFO (PayService.java:901)- 增加订单里的===============访问支付地址完成 2019051610JY21302292 2019/05/16-10:19:27:631
+2019-05-16 10:19:27,631 INFO (HttpsClientUtil.java:332)- {"coupon":null,"balance":{"payAmount":"148888.00"},"orderId":"2019051610JY21302292"}
+2019-05-16 10:19:27,631 INFO (HttpsClientUtil.java:332)- {"pwEnVer":"M_A_1","payPassword":"tl%2BXHhG0Bwg2xdtMozVuOBZ2S26RiBw1Awd78zBbpe4Pa5PHxf1imBDm99GpCIE6"}
+2019-05-16 10:19:27,631 INFO (HttpsClientUtil.java:332)- [["cashier","paymode-hongbao"],["cashier","paymode-account"],["cashier","paybutton-combinpay"]]
+2019-05-16 10:19:27,631 INFO (HttpsClientUtil.java:332)- {"term":"web"}
+2019-05-16 10:19:27,631 INFO (DateUtil.java:708)- 调用之前------https://epay.163.com/cashier/ajaxPay,2019/05/16-10:19:27:631
+2019-05-16 10:19:27,856 INFO (DateUtil.java:708)- 调用之后------https://epay.163.com/cashier/ajaxPay,2019/05/16-10:19:27:856
+2019-05-16 10:19:27,856 INFO (PayService.java:765)- 2019/05/16-10:19:27:856 普通支付 2019051610JY21302292 ====================={"result":"error","errorMsg":"账户余额不足，请使用其他支付方式","errorCode":"034020","errorMap":{},"bankUrl":null,"params":null,"traceCookie":false,"data":null}
+2019-05-16 10:19:27,856 INFO (PayService.java:772)- 034020
+2019-05-16 10:19:27,856 INFO (PayService.java:776)- error
+2019-05-16 10:19:27,856 INFO (PayService.java:780)- 账户余额不足，请使用其他支付方式
+2019-05-16 10:19:29,856 INFO (HttpsClientUtil.java:74)- 2019/05/16-10:19:29:856https://my.cbg.163.com/cgi/api/cancel_order
+2019-05-16 10:19:29,974 INFO (PayService.java:916)- 初始化结束----------------------------------------
+2019-05-16 10:19:29,985 INFO (HttpsClientUtil.java:74)- 2019/05/16-10:19:29:985https://my.cbg.163.com/cgi/api/my_orders?page=1
+2019-05-16 10:19:30,182 INFO (PayService.java:449)- 解析数组之后 2019/05/16-10:19:30:182 
+2019-05-16 10:19:30,183 INFO (PayService.java:453)- result之后 2019/05/16-10:19:30:183 
+2019-05-16 10:19:30,195 INFO (PayService.java:455)- ============现在的订单号为:35_10133
+2019-05-16 10:19:55,588 INFO (HttpsClientUtil.java:74)- 2019/05/16-10:19:55:588https://my.cbg.163.com/cgi/api/add_order
+2019-05-16 10:19:55,700 INFO (PayService.java:341)- 2019/05/16-10:19:55:700  {"msg": "\u8be5\u7269\u54c1\u672a\u8fc7\u516c\u793a\u671f\uff0c\u4e0d\u80fd\u8d2d\u4e70!", "status": 0}
+2019-05-16 10:19:55,700 INFO (PayService.java:353)- 下单失败，失败原因：该物品未过公示期，不能购买!
+2019-05-16 10:19:55,844 INFO (HttpsClientUtil.java:74)- 2019/05/16-10:19:55:844https://my.cbg.163.com/cgi/api/add_order
+2019-05-16 10:19:56,082 INFO (PayService.java:341)- 2019/05/16-10:19:56:082  {"msg": "\u8be5\u7269\u54c1\u672a\u8fc7\u516c\u793a\u671f\uff0c\u4e0d\u80fd\u8d2d\u4e70!", "status": 0}
+2019-05-16 10:19:56,083 INFO (PayService.java:353)- 下单失败，失败原因：该物品未过公示期，不能购买!
+2019-05-16 10:19:56,111 INFO (HttpsClientUtil.java:74)- 2019/05/16-10:19:56:111https://my.cbg.163.com/cgi/api/add_order
+2019-05-16 10:19:56,284 INFO (PayService.java:341)- 2019/05/16-10:19:56:284  {"msg": "\u8be5\u7269\u54c1\u672a\u8fc7\u516c\u793a\u671f\uff0c\u4e0d\u80fd\u8d2d\u4e70!", "status": 0}
+2019-05-16 10:19:56,284 INFO (PayService.java:353)- 下单失败，失败原因：该物品未过公示期，不能购买!
+2019-05-16 10:19:56,360 INFO (HttpsClientUtil.java:74)- 2019/05/16-10:19:56:360https://my.cbg.163.com/cgi/api/add_order
+2019-05-16 10:19:56,518 INFO (PayService.java:341)- 2019/05/16-10:19:56:518  {"msg": "\u8be5\u7269\u54c1\u672a\u8fc7\u516c\u793a\u671f\uff0c\u4e0d\u80fd\u8d2d\u4e70!", "status": 0}
+2019-05-16 10:19:56,518 INFO (PayService.java:353)- 下单失败，失败原因：该物品未过公示期，不能购买!
+2019-05-16 10:19:56,610 INFO (HttpsClientUtil.java:74)- 2019/05/16-10:19:56:610https://my.cbg.163.com/cgi/api/add_order
+2019-05-16 10:19:56,762 INFO (PayService.java:341)- 2019/05/16-10:19:56:762  {"msg": "\u8be5\u7269\u54c1\u672a\u8fc7\u516c\u793a\u671f\uff0c\u4e0d\u80fd\u8d2d\u4e70!", "status": 0}
+2019-05-16 10:19:56,763 INFO (PayService.java:353)- 下单失败，失败原因：该物品未过公示期，不能购买!
+2019-05-16 10:19:56,869 INFO (HttpsClientUtil.java:74)- 2019/05/16-10:19:56:869https://my.cbg.163.com/cgi/api/add_order
+2019-05-16 10:19:57,067 INFO (PayService.java:341)- 2019/05/16-10:19:57:067  {"msg": "\u8be5\u7269\u54c1\u672a\u8fc7\u516c\u793a\u671f\uff0c\u4e0d\u80fd\u8d2d\u4e70!", "status": 0}
+2019-05-16 10:19:57,067 INFO (PayService.java:353)- 下单失败，失败原因：该物品未过公示期，不能购买!
+2019-05-16 10:19:57,246 INFO (HttpsClientUtil.java:74)- 2019/05/16-10:19:57:246https://my.cbg.163.com/cgi/api/add_order
+2019-05-16 10:19:57,360 INFO (HttpsClientUtil.java:74)- 2019/05/16-10:19:57:360https://my.cbg.163.com/cgi/api/add_order
+2019-05-16 10:19:57,505 INFO (PayService.java:341)- 2019/05/16-10:19:57:505  {"msg": "\u60a8\u6709\u4e00\u4e2a\u89d2\u8272\u5546\u54c1\u5c1a\u672a\u4ed8\u6b3e\uff0c\u4e0d\u80fd\u518d\u8d2d\u4e70\u4e86", "status": 0}
+2019-05-16 10:19:57,505 INFO (PayService.java:353)- 下单失败，失败原因：您有一个角色商品尚未付款，不能再购买了
+2019-05-16 10:19:57,526 INFO (PayThreadIp.java:34)- -----------------------订单号为：35_10134
+2019-05-16 10:19:57,526 INFO (HttpsClientUtil.java:135)- 2019/05/16-10:19:57:526https://my.cbg.163.com/cgi/api/get_order_pay_info
+2019-05-16 10:19:57,526 INFO (PayThreadIp.java:34)- -----------------------订单号为：35_10135
+2019-05-16 10:19:57,527 INFO (PayThreadIp.java:34)- -----------------------订单号为：35_10137
+2019-05-16 10:19:57,527 INFO (HttpsClientUtil.java:135)- 2019/05/16-10:19:57:527https://my.cbg.163.com/cgi/api/get_order_pay_info
+2019-05-16 10:19:57,527 INFO (PayThreadIp.java:34)- -----------------------订单号为：35_10136
+2019-05-16 10:19:57,528 INFO (HttpsClientUtil.java:135)- 2019/05/16-10:19:57:528https://my.cbg.163.com/cgi/api/get_order_pay_info
+2019-05-16 10:19:57,548 INFO (PayThreadIp.java:34)- -----------------------订单号为：35_10139
+2019-05-16 10:19:57,548 INFO (HttpsClientUtil.java:135)- 2019/05/16-10:19:57:548https://my.cbg.163.com/cgi/api/get_order_pay_info
+2019-05-16 10:19:57,563 INFO (HttpsClientUtil.java:135)- 2019/05/16-10:19:57:563https://my.cbg.163.com/cgi/api/get_order_pay_info
+2019-05-16 10:19:57,563 INFO (PayThreadIp.java:34)- -----------------------订单号为：35_10140
+2019-05-16 10:19:57,563 INFO (HttpsClientUtil.java:135)- 2019/05/16-10:19:57:563https://my.cbg.163.com/cgi/api/get_order_pay_info
+2019-05-16 10:19:57,564 INFO (PayThreadIp.java:34)- -----------------------订单号为：35_10141
+2019-05-16 10:19:57,564 INFO (HttpsClientUtil.java:135)- 2019/05/16-10:19:57:564https://my.cbg.163.com/cgi/api/get_order_pay_info
+2019-05-16 10:19:57,591 INFO (PayThreadIp.java:34)- -----------------------订单号为：35_10138
+2019-05-16 10:19:57,591 INFO (HttpsClientUtil.java:135)- 2019/05/16-10:19:57:591https://my.cbg.163.com/cgi/api/get_order_pay_info
+2019-05-16 10:19:57,603 INFO (PayThreadIp.java:34)- -----------------------订单号为：35_10133
+2019-05-16 10:19:57,603 INFO (HttpsClientUtil.java:135)- 2019/05/16-10:19:57:603https://my.cbg.163.com/cgi/api/get_order_pay_info
+2019-05-16 10:19:57,603 INFO (PayThreadIp.java:34)- -----------------------订单号为：35_10142
+2019-05-16 10:19:57,603 INFO (HttpsClientUtil.java:135)- 2019/05/16-10:19:57:603https://my.cbg.163.com/cgi/api/get_order_pay_info
+2019-05-16 10:19:57,659 INFO (PayService.java:341)- 2019/05/16-10:19:57:659  {"status": 1, "order": {"price_total": 80000, "orderid_to_epay": "35_10134"}}
+2019-05-16 10:19:57,659 INFO (PayService.java:348)- 2019/05/16-10:19:57:659 下单成功,支付金额为：800元，订单号为：35_10134
+2019-05-16 10:19:57,660 INFO (HttpsClientUtil.java:135)- 2019/05/16-10:19:57:660https://my.cbg.163.com/cgi/api/get_order_pay_info
+2019-05-16 10:19:57,746 INFO (HttpsClientUtil.java:74)- 2019/05/16-10:19:57:746https://my.cbg.163.com/cgi/api/add_order
+2019-05-16 10:19:57,841 INFO (HttpsClientUtil.java:178)- 与[https://my.cbg.163.com/cgi/api/get_order_pay_info]通信过程中发生异常,堆栈信息为java.lang.IllegalStateException: Invalid use of BasicClientConnManager: connection still allocated.
+Make sure to release the connection before allocating another one.
+2019-05-16 10:19:57,858 INFO (PayService.java:552)- 35_10134 getorderinfo 返回值 
+2019-05-16 10:19:57,858 INFO (OrderThreadIp2.java:68)- 增加订单里的===============获取支付地址完成 2019/05/16-10:19:57:858 
+2019-05-16 10:19:57,874 INFO (HttpsClientUtil.java:74)- 2019/05/16-10:19:57:874https://my.cbg.163.com/cgi/api/add_order
+2019-05-16 10:19:57,900 INFO (PayService.java:552)- 35_10139 getorderinfo 返回值 {"msg": "\u5c11\u4fa0\uff0c\u90e8\u5206\u8ba2\u5355\u5df2\u5931\u6548\uff0c\u8bf7\u5237\u65b0\u540e\u91cd\u8bd5\uff5e", "status": 0}
+2019-05-16 10:19:57,900 INFO (PayService.java:560)- 35_10139---------jieximsg之后 少侠，部分订单已失效，请刷新后重试～
+2019-05-16 10:19:57,900 INFO (PayService.java:569)- 35_10139查询失败，失败原因：少侠，部分订单已失效，请刷新后重试～
+2019-05-16 10:19:57,900 INFO (PayThreadIp.java:37)- 查询订单里的===============获取支付地址完成 2019/05/16-10:19:57:900 
+2019-05-16 10:19:57,920 INFO (PayService.java:552)- 35_10138 getorderinfo 返回值 {"msg": "\u5c11\u4fa0\uff0c\u90e8\u5206\u8ba2\u5355\u5df2\u5931\u6548\uff0c\u8bf7\u5237\u65b0\u540e\u91cd\u8bd5\uff5e", "status": 0}
+2019-05-16 10:19:57,920 INFO (PayService.java:560)- 35_10138---------jieximsg之后 少侠，部分订单已失效，请刷新后重试～
+2019-05-16 10:19:57,920 INFO (PayService.java:569)- 35_10138查询失败，失败原因：少侠，部分订单已失效，请刷新后重试～
+2019-05-16 10:19:57,920 INFO (PayThreadIp.java:37)- 查询订单里的===============获取支付地址完成 2019/05/16-10:19:57:920 
+2019-05-16 10:19:57,941 INFO (PayService.java:552)- 35_10136 getorderinfo 返回值 {"msg": "\u5c11\u4fa0\uff0c\u90e8\u5206\u8ba2\u5355\u5df2\u5931\u6548\uff0c\u8bf7\u5237\u65b0\u540e\u91cd\u8bd5\uff5e", "status": 0}
+2019-05-16 10:19:57,941 INFO (PayService.java:560)- 35_10136---------jieximsg之后 少侠，部分订单已失效，请刷新后重试～
+2019-05-16 10:19:57,941 INFO (PayService.java:552)- 35_10141 getorderinfo 返回值 {"msg": "\u5c11\u4fa0\uff0c\u90e8\u5206\u8ba2\u5355\u5df2\u5931\u6548\uff0c\u8bf7\u5237\u65b0\u540e\u91cd\u8bd5\uff5e", "status": 0}
+2019-05-16 10:19:57,941 INFO (PayService.java:552)- 35_10142 getorderinfo 返回值 {"msg": "\u5c11\u4fa0\uff0c\u90e8\u5206\u8ba2\u5355\u5df2\u5931\u6548\uff0c\u8bf7\u5237\u65b0\u540e\u91cd\u8bd5\uff5e", "status": 0}
+2019-05-16 10:19:57,941 INFO (PayService.java:569)- 35_10136查询失败，失败原因：少侠，部分订单已失效，请刷新后重试～
+2019-05-16 10:19:57,941 INFO (PayService.java:560)- 35_10141---------jieximsg之后 少侠，部分订单已失效，请刷新后重试～
+2019-05-16 10:19:57,956 INFO (PayThreadIp.java:37)- 查询订单里的===============获取支付地址完成 2019/05/16-10:19:57:956 
+2019-05-16 10:19:57,956 INFO (PayService.java:569)- 35_10141查询失败，失败原因：少侠，部分订单已失效，请刷新后重试～
+2019-05-16 10:19:57,941 INFO (PayService.java:560)- 35_10142---------jieximsg之后 少侠，部分订单已失效，请刷新后重试～
+2019-05-16 10:19:57,956 INFO (PayThreadIp.java:37)- 查询订单里的===============获取支付地址完成 2019/05/16-10:19:57:956 
+2019-05-16 10:19:57,956 INFO (PayService.java:569)- 35_10142查询失败，失败原因：少侠，部分订单已失效，请刷新后重试～
+2019-05-16 10:19:57,956 INFO (PayThreadIp.java:37)- 查询订单里的===============获取支付地址完成 2019/05/16-10:19:57:956 
+2019-05-16 10:19:57,964 INFO (PayService.java:552)- 35_10133 getorderinfo 返回值 {"msg": "\u5c11\u4fa0\uff0c\u6b64\u5546\u54c1\u60a8\u672a\u5728\u89c4\u5b9a\u65f6\u95f4\u5185\u4ed8\u6b3e\uff0c\u8bf7\u91cd\u65b0\u8d2d\u4e70\uff5e", "status": 0}
+2019-05-16 10:19:57,964 INFO (PayService.java:560)- 35_10133---------jieximsg之后 少侠，此商品您未在规定时间内付款，请重新购买～
+2019-05-16 10:19:57,964 INFO (PayService.java:569)- 35_10133查询失败，失败原因：少侠，此商品您未在规定时间内付款，请重新购买～
+2019-05-16 10:19:57,964 INFO (PayThreadIp.java:37)- 查询订单里的===============获取支付地址完成 2019/05/16-10:19:57:964 
+2019-05-16 10:19:58,018 INFO (PayService.java:552)- 35_10140 getorderinfo 返回值 {"msg": "\u5c11\u4fa0\uff0c\u90e8\u5206\u8ba2\u5355\u5df2\u5931\u6548\uff0c\u8bf7\u5237\u65b0\u540e\u91cd\u8bd5\uff5e", "status": 0}
+2019-05-16 10:19:58,018 INFO (PayService.java:341)- 2019/05/16-10:19:58:018  {"msg": "\u60a8\u6709\u4e00\u4e2a\u89d2\u8272\u5546\u54c1\u5c1a\u672a\u4ed8\u6b3e\uff0c\u4e0d\u80fd\u518d\u8d2d\u4e70\u4e86", "status": 0}
+2019-05-16 10:19:58,018 INFO (PayService.java:560)- 35_10140---------jieximsg之后 少侠，部分订单已失效，请刷新后重试～
+2019-05-16 10:19:58,018 INFO (PayService.java:353)- 下单失败，失败原因：您有一个角色商品尚未付款，不能再购买了
+2019-05-16 10:19:58,034 INFO (PayService.java:552)- 35_10137 getorderinfo 返回值 {"msg": "\u5c11\u4fa0\uff0c\u90e8\u5206\u8ba2\u5355\u5df2\u5931\u6548\uff0c\u8bf7\u5237\u65b0\u540e\u91cd\u8bd5\uff5e", "status": 0}
+2019-05-16 10:19:58,034 INFO (PayService.java:560)- 35_10137---------jieximsg之后 少侠，部分订单已失效，请刷新后重试～
+2019-05-16 10:19:58,034 INFO (PayService.java:569)- 35_10137查询失败，失败原因：少侠，部分订单已失效，请刷新后重试～
+2019-05-16 10:19:58,034 INFO (PayThreadIp.java:37)- 查询订单里的===============获取支付地址完成 2019/05/16-10:19:58:034 
+2019-05-16 10:19:58,034 INFO (PayService.java:552)- 35_10135 getorderinfo 返回值 {"msg": "\u5c11\u4fa0\uff0c\u90e8\u5206\u8ba2\u5355\u5df2\u5931\u6548\uff0c\u8bf7\u5237\u65b0\u540e\u91cd\u8bd5\uff5e", "status": 0}
+2019-05-16 10:19:58,034 INFO (PayService.java:341)- 2019/05/16-10:19:58:034  {"msg": "\u60a8\u6709\u4e00\u4e2a\u89d2\u8272\u5546\u54c1\u5c1a\u672a\u4ed8\u6b3e\uff0c\u4e0d\u80fd\u518d\u8d2d\u4e70\u4e86", "status": 0}
+2019-05-16 10:19:58,034 INFO (PayService.java:560)- 35_10135---------jieximsg之后 少侠，部分订单已失效，请刷新后重试～
+2019-05-16 10:19:58,034 INFO (PayService.java:569)- 35_10135查询失败，失败原因：少侠，部分订单已失效，请刷新后重试～
+2019-05-16 10:19:58,034 INFO (PayService.java:353)- 下单失败，失败原因：您有一个角色商品尚未付款，不能再购买了
+2019-05-16 10:19:58,034 INFO (PayThreadIp.java:37)- 查询订单里的===============获取支付地址完成 2019/05/16-10:19:58:034 
+2019-05-16 10:19:58,018 INFO (PayService.java:569)- 35_10140查询失败，失败原因：少侠，部分订单已失效，请刷新后重试～
+2019-05-16 10:19:58,035 INFO (PayThreadIp.java:37)- 查询订单里的===============获取支付地址完成 2019/05/16-10:19:58:035 
+2019-05-16 10:19:58,042 INFO (PayService.java:552)- 35_10134 getorderinfo 返回值 {"status": 1, "pay_info": {"epay_pay_url": "https://api.epay.163.com/mwallet/order/pay.htm?msg=eyJvcmRlcklkIjogIjIwMTkwNTE2MTBKWTIxMzA3MzEzIiwgImNhbGxlclBsYXRmb3JtSWQiOiAiMjAxNzExMjAxNlBUNTM4NzU3NDYiLCAicGxhdGZvcm1JZCI6ICIyMDE4MDQyNTEzUFQ1NTA1MDc2NiIsICJ2ZXJzaW9uIjogIjEuMC4wIiwgInBheVN0cmF0ZWd5IjogIntcIndhbGxldFR5cGVcIjogXCJDQkdfV0FMTEVUXCIsIFwiZXBheUFtb3VudFwiOiA4MDAuMCwgXCJtZXJjaGFudFdhbGxldEFtb3VudFwiOiAwLjAsIFwidXNlSW5zcGVjdEJhbGFuY2VcIjogZmFsc2UsIFwib3V0ZXJDaGFyZ2VGZWVOb3RlXCI6IHtcImFwRmVlXCI6IDAuMCwgXCJ3eEZlZVwiOiAwLjB9LCBcIm91dGVyQ2hhcmdlRmVlU3RyYXRlZ3lcIjoge1wiYXBGZWVcIjogOC44LCBcInd4RmVlXCI6IDUuNn19IiwgImFjY291bnRJZCI6ICJxNzM1MTY1ODc2QDE2My5jb20ifQ%3D%3D&msgType=JSON&sign=KHEbZws1dN79%2FjcVtGqlENYv2iazf912fig6uB3bd8AqAxC91B%2FWn%2BvbJnl11RfNLhS4ljkdGYL7oE1NO8TDSFBhcB1kRbqnJAyjEWSLDGiFyNNpABkjT0rEIMSJZbNj0OZS0iv0Y0Kh3h0iiRWWUH%2FxeDovj5lchuEQgOMt8of7DpZyo%2BCE3rqV9zaDTeene0S5bW%2BMSFsVz65OXeinTmHAi%2BB2y9e6MrY3JkvXDLDST47X9x7elTK7fQDSfnGUZMJg%2FrSHAzk07MguzpE3xRkKzS2StnZKFNCpX%2FBKasnSWUsLucCOPZh%2FAuOTr6jxAUSVWAvwSeSIHfnoQjEedg%3D%3D", "mobile_info": null, "full_pay_by_wallet": false}}
+2019-05-16 10:19:58,042 INFO (PayService.java:560)- 35_10134---------jieximsg之后 null
+2019-05-16 10:19:58,043 INFO (PayService.java:563)- 35_10134---------解析epay_pay_url之前
+2019-05-16 10:19:58,043 INFO (PayThreadIp.java:37)- 查询订单里的===============获取支付地址完成 2019/05/16-10:19:58:043 https://api.epay.163.com/mwallet/order/pay.htm?msg=eyJvcmRlcklkIjogIjIwMTkwNTE2MTBKWTIxMzA3MzEzIiwgImNhbGxlclBsYXRmb3JtSWQiOiAiMjAxNzExMjAxNlBUNTM4NzU3NDYiLCAicGxhdGZvcm1JZCI6ICIyMDE4MDQyNTEzUFQ1NTA1MDc2NiIsICJ2ZXJzaW9uIjogIjEuMC4wIiwgInBheVN0cmF0ZWd5IjogIntcIndhbGxldFR5cGVcIjogXCJDQkdfV0FMTEVUXCIsIFwiZXBheUFtb3VudFwiOiA4MDAuMCwgXCJtZXJjaGFudFdhbGxldEFtb3VudFwiOiAwLjAsIFwidXNlSW5zcGVjdEJhbGFuY2VcIjogZmFsc2UsIFwib3V0ZXJDaGFyZ2VGZWVOb3RlXCI6IHtcImFwRmVlXCI6IDAuMCwgXCJ3eEZlZVwiOiAwLjB9LCBcIm91dGVyQ2hhcmdlRmVlU3RyYXRlZ3lcIjoge1wiYXBGZWVcIjogOC44LCBcInd4RmVlXCI6IDUuNn19IiwgImFjY291bnRJZCI6ICJxNzM1MTY1ODc2QDE2My5jb20ifQ%3D%3D&msgType=JSON&sign=KHEbZws1dN79%2FjcVtGqlENYv2iazf912fig6uB3bd8AqAxC91B%2FWn%2BvbJnl11RfNLhS4ljkdGYL7oE1NO8TDSFBhcB1kRbqnJAyjEWSLDGiFyNNpABkjT0rEIMSJZbNj0OZS0iv0Y0Kh3h0iiRWWUH%2FxeDovj5lchuEQgOMt8of7DpZyo%2BCE3rqV9zaDTeene0S5bW%2BMSFsVz65OXeinTmHAi%2BB2y9e6MrY3JkvXDLDST47X9x7elTK7fQDSfnGUZMJg%2FrSHAzk07MguzpE3xRkKzS2StnZKFNCpX%2FBKasnSWUsLucCOPZh%2FAuOTr6jxAUSVWAvwSeSIHfnoQjEedg%3D%3D
+2019-05-16 10:19:58,055 INFO (PayThreadIp.java:39)- 访问支付地址，生成订单，返回订单号 2019/05/16-10:19:58:055
+2019-05-16 10:19:58,055 INFO (DateUtil.java:698)- 2019/05/16-10:19:58:055
+2019-05-16 10:19:58,247 INFO (PayService.java:662)- 2019/05/16-10:19:58:247---------返回getPayNo方法
+2019-05-16 10:19:58,247 INFO (PayService.java:669)- 2019/05/16-10:19:58:247 真实支付地址为：https://epay.163.com/cashier/standardCashier?orderId=2019051610JY21307422
+2019-05-16 10:19:58,247 INFO (PayService.java:680)- 2019/05/16-10:19:58:247---------getPayNo方法return之前
+2019-05-16 10:19:58,258 INFO (PayThreadIp.java:41)- 查询订单里的===============访问支付地址完成 2019051610JY21307422 2019/05/16-10:19:58:258
+2019-05-16 10:19:58,263 INFO (HttpsClientUtil.java:387)- {"coupon":null,"balance":{"payAmount":"800.00"},"orderId":"2019051610JY21307422"}
+2019-05-16 10:19:58,263 INFO (HttpsClientUtil.java:387)- {"pwEnVer":"M_A_1","payPassword":"tl%2BXHhG0Bwg2xdtMozVuOBZ2S26RiBw1Awd78zBbpe4Pa5PHxf1imBDm99GpCIE6"}
+2019-05-16 10:19:58,263 INFO (HttpsClientUtil.java:387)- [["cashier","paymode-hongbao"],["cashier","paymode-account"],["cashier","paybutton-combinpay"]]
+2019-05-16 10:19:58,263 INFO (HttpsClientUtil.java:387)- {"term":"web"}
+2019-05-16 10:19:58,263 INFO (DateUtil.java:708)- 调用之前------https://epay.163.com/cashier/ajaxPay,2019/05/16-10:19:58:263
+2019-05-16 10:19:58,675 INFO (DateUtil.java:708)- 调用之后------https://epay.163.com/cashier/ajaxPay,2019/05/16-10:19:58:675
+2019-05-16 10:19:58,675 INFO (PayService.java:799)- 2019/05/16-10:19:58:675 普通支付 2019051610JY21307422 ====================={"result":"success","errorMsg":null,"errorCode":null,"errorMap":{},"bankUrl":null,"params":null,"traceCookie":false,"data":{"returnUrl":"https://epay.163.com/cashier/orderSuccess?orderId=2019051610JY21307422"}}
+2019-05-16 10:19:58,676 INFO (PayService.java:806)- null
+2019-05-16 10:19:58,676 INFO (PayService.java:807)- success
+2019-05-16 10:19:58,676 INFO (PayService.java:808)- null
+2019-05-16 15:36:12,205 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:36:12:205https://my.cbg.163.com/cgi/api/query
+2019-05-16 15:36:17,899 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:36:17:899https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:36:23,181 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:36:23:181https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:36:28,339 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:36:28:339https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:36:33,538 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:36:33:538https://my.cbg.163.com/cgi/api/add_collect
+2019-05-16 15:36:38,644 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:36:38:644https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:36:43,851 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:36:43:851https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:36:49,032 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:36:49:032https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:36:54,456 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:36:54:451https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:36:59,619 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:36:59:619https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:37:04,814 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:37:04:814https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:37:10,000 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:37:10:000https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:37:15,203 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:37:15:203https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:37:20,376 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:37:20:376https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:37:25,618 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:37:25:618https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:37:30,847 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:37:30:847https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:37:36,014 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:37:36:014https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:37:41,236 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:37:41:236https://my.cbg.163.com/cgi/api/query
+2019-05-16 15:37:46,368 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:37:46:368https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:37:51,554 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:37:51:554https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:37:56,826 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:37:56:826https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:38:02,004 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:38:02:004https://my.cbg.163.com/cgi/api/add_collect
+2019-05-16 15:38:07,259 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:38:07:259https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:38:12,592 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:38:12:591https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:38:17,770 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:38:17:770https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:38:22,945 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:38:22:945https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:38:28,193 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:38:28:193https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:38:33,354 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:38:33:354https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:38:38,518 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:38:38:518https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:38:44,636 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:38:44:636https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:38:49,996 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:38:49:996https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:38:55,188 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:38:55:188https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:39:00,415 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:39:00:415https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:39:05,616 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:39:05:616https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:39:10,983 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:39:10:983https://my.cbg.163.com/cgi/api/query
+2019-05-16 15:39:16,227 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:39:16:227https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:39:21,503 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:39:21:503https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:39:26,849 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:39:26:849https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:39:32,227 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:39:32:227https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:39:37,409 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:39:37:409https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:39:42,630 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:39:42:630https://my.cbg.163.com/cgi/api/add_collect
+2019-05-16 15:39:47,762 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:39:47:762https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:39:53,013 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:39:53:013https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:39:58,406 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:39:58:406https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:40:03,922 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:40:03:922https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:40:09,128 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:40:09:128https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:40:14,377 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:40:14:377https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:40:19,810 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:40:19:810https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:40:25,072 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:40:25:072https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:40:30,320 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:40:30:320https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:40:35,588 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:40:35:588https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:40:40,756 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:40:40:756https://my.cbg.163.com/cgi/api/query
+2019-05-16 15:40:45,916 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:40:45:916https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:40:51,184 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:40:51:184https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:40:56,321 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:40:56:321https://my.cbg.163.com/cgi/api/add_collect
+2019-05-16 15:41:01,432 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:41:01:432https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:41:06,569 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:41:06:569https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:41:11,712 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:41:11:712https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:41:16,862 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:41:16:862https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:41:22,034 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:41:22:034https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:41:27,183 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:41:27:183https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:41:32,345 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:41:32:345https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:41:37,501 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:41:37:499https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:41:42,674 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:41:42:674https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:41:47,859 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:41:47:859https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:41:53,023 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:41:53:023https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:41:58,169 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:41:58:169https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:42:03,349 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:42:03:349https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:42:08,545 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:42:08:545https://my.cbg.163.com/cgi/api/query
+2019-05-16 15:42:13,668 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:42:13:668https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:42:18,781 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:42:18:781https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:42:23,907 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:42:23:907https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:42:29,052 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:42:29:052https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:42:34,236 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:42:34:236https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:42:39,390 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:42:39:390https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:42:44,532 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:42:44:532https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:42:49,667 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:42:49:667https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:42:54,801 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:42:54:801https://my.cbg.163.com/cgi/api/add_collect
+2019-05-16 15:42:59,891 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:42:59:891https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:43:05,066 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:43:05:066https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:43:10,239 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:43:10:239https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:43:15,365 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:43:15:365https://my.cbg.163.com/cgi/api/add_collect
+2019-05-16 15:43:20,525 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:43:20:525https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:43:25,688 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:43:25:688https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:43:30,889 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:43:30:889https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:43:36,124 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:43:36:124https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:43:41,270 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:43:41:270https://my.cbg.163.com/cgi/api/query
+2019-05-16 15:43:46,389 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:43:46:389https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:43:51,562 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:43:51:562https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:43:56,715 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:43:56:715https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:44:01,923 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:44:01:923https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:44:07,152 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:44:07:152https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:44:12,331 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:44:12:331https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:44:17,458 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:44:17:458https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:44:22,614 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:44:22:614https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:44:27,736 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:44:27:736https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:44:33,332 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:44:33:332https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:44:38,528 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:44:38:528https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:44:43,637 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:44:43:637https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:44:48,785 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:44:48:785https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:44:53,952 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:44:53:952https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:44:59,119 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:44:59:119https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:45:04,290 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:45:04:290https://my.cbg.163.com/cgi/api/query
+2019-05-16 15:45:09,435 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:45:09:435https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:45:14,620 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:45:14:620https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:45:19,773 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:45:19:773https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:45:25,001 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:45:25:001https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:45:30,173 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:45:30:173https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:45:35,301 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:45:35:301https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:45:40,474 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:45:40:474https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:45:45,643 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:45:45:643https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:45:50,783 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:45:50:783https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:45:55,949 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:45:55:949https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:46:01,096 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:46:01:096https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:46:06,233 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:46:06:233https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:46:11,396 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:46:11:396https://my.cbg.163.com/cgi/api/add_collect
+2019-05-16 15:46:16,496 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:46:16:496https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:46:21,672 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:46:21:672https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:46:26,856 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:46:26:856https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:46:31,981 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:46:31:981https://my.cbg.163.com/cgi/api/add_collect
+2019-05-16 15:46:37,078 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:46:37:078https://my.cbg.163.com/cgi/api/query
+2019-05-16 15:46:42,226 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:46:42:226https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 15:46:47,346 INFO (HttpsClientUtil.java:74)- 2019/05/16-15:46:47:346https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 17:55:07,000 INFO (StartupInfoLogger.java:50)- Starting PaymhApplication on WINDOWS-MGSUBV3 with PID 6464 (E:\projects\paymh-ip\target\classes started by chenjc23273 in E:\projects\paymh-ip)
+2019-05-16 17:55:07,043 INFO (SpringApplication.java:675)- No active profile set, falling back to default profiles: default
+2019-05-16 17:55:19,554 INFO (StartupInfoLogger.java:59)- Started PaymhApplication in 15.787 seconds (JVM running for 29.917)
+2019-05-16 17:55:19,568 INFO (PayService.java:66)- 2019/05/16-17:55:19:568------Http初始化之前
+2019-05-16 17:55:25,943 INFO (PayService.java:83)- 2019/05/16-17:55:25:942------Http初始化之后
+2019-05-16 17:58:03,532 INFO (HttpsClientUtil.java:74)- 2019/05/16-17:58:03:532https://my.cbg.163.com/cgi/api/query
+2019-05-16 17:58:09,469 INFO (HttpsClientUtil.java:74)- 2019/05/16-17:58:09:469https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 17:58:14,826 INFO (HttpsClientUtil.java:74)- 2019/05/16-17:58:14:826https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 17:58:19,922 INFO (HttpsClientUtil.java:74)- 2019/05/16-17:58:19:922https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 17:58:25,044 INFO (HttpsClientUtil.java:74)- 2019/05/16-17:58:25:044https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 17:58:30,104 INFO (HttpsClientUtil.java:74)- 2019/05/16-17:58:30:104https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 17:58:35,228 INFO (HttpsClientUtil.java:74)- 2019/05/16-17:58:35:228https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 17:58:40,348 INFO (HttpsClientUtil.java:74)- 2019/05/16-17:58:40:348https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 17:58:45,431 INFO (HttpsClientUtil.java:74)- 2019/05/16-17:58:45:431https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 17:58:50,540 INFO (HttpsClientUtil.java:74)- 2019/05/16-17:58:50:540https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 17:58:55,628 INFO (HttpsClientUtil.java:74)- 2019/05/16-17:58:55:628https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 17:59:00,763 INFO (HttpsClientUtil.java:74)- 2019/05/16-17:59:00:763https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 17:59:05,840 INFO (HttpsClientUtil.java:74)- 2019/05/16-17:59:05:840https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 17:59:10,953 INFO (HttpsClientUtil.java:74)- 2019/05/16-17:59:10:953https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 17:59:16,066 INFO (HttpsClientUtil.java:74)- 2019/05/16-17:59:16:064https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 17:59:21,169 INFO (HttpsClientUtil.java:74)- 2019/05/16-17:59:21:169https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 17:59:26,250 INFO (HttpsClientUtil.java:74)- 2019/05/16-17:59:26:250https://my.cbg.163.com/cgi/api/query
+2019-05-16 17:59:31,304 INFO (HttpsClientUtil.java:74)- 2019/05/16-17:59:31:304https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 17:59:36,382 INFO (HttpsClientUtil.java:74)- 2019/05/16-17:59:36:382https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 17:59:41,481 INFO (HttpsClientUtil.java:74)- 2019/05/16-17:59:41:481https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 17:59:46,549 INFO (HttpsClientUtil.java:74)- 2019/05/16-17:59:46:549https://my.cbg.163.com/cgi/api/add_collect
+2019-05-16 17:59:51,599 INFO (HttpsClientUtil.java:74)- 2019/05/16-17:59:51:599https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 17:59:56,658 INFO (HttpsClientUtil.java:74)- 2019/05/16-17:59:56:658https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 18:00:01,732 INFO (HttpsClientUtil.java:74)- 2019/05/16-18:00:01:731https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 18:00:06,800 INFO (HttpsClientUtil.java:74)- 2019/05/16-18:00:06:800https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 18:00:11,897 INFO (HttpsClientUtil.java:74)- 2019/05/16-18:00:11:897https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 18:00:16,968 INFO (HttpsClientUtil.java:74)- 2019/05/16-18:00:16:968https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 18:00:22,213 INFO (HttpsClientUtil.java:74)- 2019/05/16-18:00:22:213https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 18:00:27,267 INFO (HttpsClientUtil.java:74)- 2019/05/16-18:00:27:267https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 18:00:32,352 INFO (HttpsClientUtil.java:74)- 2019/05/16-18:00:32:352https://my.cbg.163.com/cgi/api/add_collect
+2019-05-16 18:00:37,402 INFO (HttpsClientUtil.java:74)- 2019/05/16-18:00:37:402https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 18:00:42,480 INFO (HttpsClientUtil.java:74)- 2019/05/16-18:00:42:480https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 18:00:47,574 INFO (HttpsClientUtil.java:74)- 2019/05/16-18:00:47:574https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 18:00:52,678 INFO (HttpsClientUtil.java:74)- 2019/05/16-18:00:52:678https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 18:00:57,741 INFO (HttpsClientUtil.java:74)- 2019/05/16-18:00:57:741https://my.cbg.163.com/cgi/api/query
+2019-05-16 18:01:02,799 INFO (HttpsClientUtil.java:74)- 2019/05/16-18:01:02:799https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 18:01:07,900 INFO (HttpsClientUtil.java:74)- 2019/05/16-18:01:07:900https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 18:01:12,961 INFO (HttpsClientUtil.java:74)- 2019/05/16-18:01:12:961https://my.cbg.163.com/cgi/api/add_collect
+2019-05-16 18:01:17,998 INFO (HttpsClientUtil.java:74)- 2019/05/16-18:01:17:998https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 18:01:23,091 INFO (HttpsClientUtil.java:74)- 2019/05/16-18:01:23:091https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 18:01:28,174 INFO (HttpsClientUtil.java:74)- 2019/05/16-18:01:28:174https://my.cbg.163.com/cgi/api/add_collect
+2019-05-16 18:01:33,230 INFO (HttpsClientUtil.java:74)- 2019/05/16-18:01:33:230https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 18:01:38,313 INFO (HttpsClientUtil.java:74)- 2019/05/16-18:01:38:313https://my.cbg.163.com/cgi/api/add_collect
+2019-05-16 18:01:43,357 INFO (HttpsClientUtil.java:74)- 2019/05/16-18:01:43:357https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 18:01:48,464 INFO (HttpsClientUtil.java:74)- 2019/05/16-18:01:48:464https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 18:01:53,553 INFO (HttpsClientUtil.java:74)- 2019/05/16-18:01:53:553https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 18:01:58,642 INFO (HttpsClientUtil.java:74)- 2019/05/16-18:01:58:642https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 18:02:03,709 INFO (HttpsClientUtil.java:74)- 2019/05/16-18:02:03:709https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 18:02:08,892 INFO (HttpsClientUtil.java:74)- 2019/05/16-18:02:08:892https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 18:02:13,979 INFO (HttpsClientUtil.java:74)- 2019/05/16-18:02:13:979https://my.cbg.163.com/cgi/api/add_collect
+2019-05-16 18:02:19,008 INFO (HttpsClientUtil.java:74)- 2019/05/16-18:02:19:008https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 18:02:24,067 INFO (HttpsClientUtil.java:74)- 2019/05/16-18:02:24:067https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 18:02:29,147 INFO (HttpsClientUtil.java:74)- 2019/05/16-18:02:29:146https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 18:02:34,268 INFO (HttpsClientUtil.java:74)- 2019/05/16-18:02:34:268https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 18:02:39,350 INFO (HttpsClientUtil.java:74)- 2019/05/16-18:02:39:350https://my.cbg.163.com/cgi/api/query
+2019-05-16 18:02:44,407 INFO (HttpsClientUtil.java:74)- 2019/05/16-18:02:44:407https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 18:02:49,474 INFO (HttpsClientUtil.java:74)- 2019/05/16-18:02:49:474https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 18:02:54,551 INFO (HttpsClientUtil.java:74)- 2019/05/16-18:02:54:551https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 18:02:59,611 INFO (HttpsClientUtil.java:74)- 2019/05/16-18:02:59:611https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 18:03:04,707 INFO (HttpsClientUtil.java:74)- 2019/05/16-18:03:04:707https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 18:03:09,822 INFO (HttpsClientUtil.java:74)- 2019/05/16-18:03:09:822https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 18:03:14,921 INFO (HttpsClientUtil.java:74)- 2019/05/16-18:03:14:921https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 18:03:20,015 INFO (HttpsClientUtil.java:74)- 2019/05/16-18:03:20:015https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 18:03:25,096 INFO (HttpsClientUtil.java:74)- 2019/05/16-18:03:25:096https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 18:03:30,177 INFO (HttpsClientUtil.java:74)- 2019/05/16-18:03:30:177https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 18:03:35,254 INFO (HttpsClientUtil.java:74)- 2019/05/16-18:03:35:254https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 18:03:40,316 INFO (HttpsClientUtil.java:74)- 2019/05/16-18:03:40:316https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 18:03:45,389 INFO (HttpsClientUtil.java:74)- 2019/05/16-18:03:45:389https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 18:03:50,473 INFO (HttpsClientUtil.java:74)- 2019/05/16-18:03:50:473https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 18:03:55,574 INFO (HttpsClientUtil.java:74)- 2019/05/16-18:03:55:574https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 18:04:00,634 INFO (HttpsClientUtil.java:74)- 2019/05/16-18:04:00:634https://my.cbg.163.com/cgi/api/add_collect
+2019-05-16 18:04:05,712 INFO (HttpsClientUtil.java:74)- 2019/05/16-18:04:05:712https://my.cbg.163.com/cgi/api/query
+2019-05-16 18:04:10,772 INFO (HttpsClientUtil.java:74)- 2019/05/16-18:04:10:772https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 18:04:15,847 INFO (HttpsClientUtil.java:74)- 2019/05/16-18:04:15:847https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 18:04:20,928 INFO (HttpsClientUtil.java:74)- 2019/05/16-18:04:20:928https://my.cbg.163.com/cgi/api/add_collect
+2019-05-16 18:04:25,976 INFO (HttpsClientUtil.java:74)- 2019/05/16-18:04:25:976https://my.cbg.163.com/cgi/api/get_equip_detail
+2019-05-16 18:04:31,051 INFO (HttpsClientUtil.java:74)- 2019/05/16-18:04:31:051https://my.cbg.163.com/cgi/api/get_equip_detail
